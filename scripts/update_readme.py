@@ -103,7 +103,7 @@ def validate_periods(payload: Any) -> list[dict[str, Any]]:
     for index, period in enumerate(periods):
         if not isinstance(period, dict):
             raise ValueError(f"ko at index {index} must be an object")
-        for field in ("name", "start", "end", "season"):
+        for field in ("name", "start", "end", "season", "sekki"):
             require_nonempty_string(period.get(field), f"ko[{index}].{field}")
         if period["season"] not in SEASONS:
             raise ValueError(f"invalid season for ko {period['name']}")
@@ -251,8 +251,8 @@ def waka_markdown(day: date, ko: dict[str, Any], poem: dict[str, Any]) -> str:
             "<br>\n".join(f"*{html.escape(line, quote=False)}*" for line in translation)
         )
     sections.append(
-        f"{day.isoformat()} UTC ｜ {japanese_calendar_date(day)} ｜ "
-        f"{html.escape(ko['name'])}"
+        f"{day.isoformat()} ｜ {japanese_calendar_date(day)} ｜ "
+        f"[{html.escape(ko['sekki'])}] {html.escape(ko['name'])}"
     )
     sections.append("</div>")
     return "\n\n".join(sections)

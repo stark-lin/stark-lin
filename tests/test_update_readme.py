@@ -95,7 +95,7 @@ class ReadmeRegionTests(unittest.TestCase):
     def test_waka_metadata_is_only_rendered_at_the_bottom(self) -> None:
         rendered = profile.waka_markdown(
             date(2026, 9, 6),
-            {"name": "禾乃登"},
+            {"name": "禾乃登", "sekki": "処暑"},
             {
                 "text": ["一", "二", "三", "四", "五"],
                 "author": "作者",
@@ -104,7 +104,7 @@ class ReadmeRegionTests(unittest.TestCase):
         )
         self.assertNotIn("禾乃登 · 2026-09-06", rendered)
         self.assertIn("<div align=\"center\">\n\n一<br>", rendered)
-        self.assertIn("2026-09-06 UTC ｜ 令和8年9月6日 ｜ 禾乃登\n\n</div>", rendered)
+        self.assertIn("2026-09-06 ｜ 令和8年9月6日 ｜ [処暑] 禾乃登\n\n</div>", rendered)
 
     def test_only_generated_region_changes(self) -> None:
         contents = "before\n<!-- WAKA:START -->\nold\n<!-- WAKA:END -->\nafter\n"
