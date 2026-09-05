@@ -1,22 +1,15 @@
 <!-- WAKA:START -->
 <div align="center">
 
-禾乃登
+禾乃登 · 2026-09-06
 
-秋来ぬと<br>
-目にはさやかに<br>
-見えねども<br>
-風の音にぞ<br>
-おどろかれぬる
+暮掛かる<br>
+虛しき空の<br>
+秋を見て<br>
+思えず溜る<br>
+袖露哉
 
-藤原敏行
-
-*Autumn has come—*<br>
-*though nothing yet makes it clear to the eye,*<br>
-*the sound of the wind*<br>
-*startles me into knowing it.*
-
-2026-09-05
+攝政太政大臣　藤原良經
 
 </div>
 <!-- WAKA:END -->

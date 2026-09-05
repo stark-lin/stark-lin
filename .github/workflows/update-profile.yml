@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-waka
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -20,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Validate profile data
+        run: python scripts/update_readme.py --check
       - name: Generate today's waka
         run: python scripts/update_readme.py
       - name: Commit updated profile
