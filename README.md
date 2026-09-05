@@ -1,4 +1,24 @@
-CS @ UNSW. Building software systems, AI-native products, and small experiments.
+処暑 · 禾乃登
+
+秋来ぬと<br>
+目にはさやかに<br>
+見えねども<br>
+風の音にぞ<br>
+おどろかれぬる
+
+藤原敏行
+
+*Autumn has come—<br>
+though nothing yet makes it clear to the eye,<br>
+the sound of the wind<br>
+startles me into knowing it.*
+
+`2026-09-05`
+
+---
+
+CS @ UNSW.<br>
+Building software systems, AI-native products, and small experiments.
 
 [portfolio](https://stark-lin.github.io/) · [email](mailto:stark.lin@outlook.com)
 
@@ -21,30 +41,3 @@ A lightweight programming practice system designed around teacher-led classroom 
 A personal homepage.
 
 `HTML` · `CSS` · `JavaScript`
-
----
-
-<!-- WAKA:START -->
-
-処暑 · 禾乃登
-
-秋来ぬと
-目にはさやかに
-見えねども
-風の音にぞ
-おどろかれぬる
-
-藤原敏行
-
-*Autumn has come—
-though nothing yet makes it clear to the eye,
-the sound of the wind
-startles me into knowing it.*
-
-<!-- WAKA:END -->
-
-<!-- DATE:START -->
-
-`2026-09-05`
-
-<!-- DATE:END -->
