@@ -55,7 +55,7 @@ def select_waka(day: date, period: dict, poems: list[dict]) -> dict:
     return nearby[index]
 
 
-def waka_markdown(period: dict, poem: dict) -> str:
+def waka_markdown(day: date, period: dict, poem: dict) -> str:
     japanese = "<br>\n".join(poem["text"])
     translation = "<br>\n".join(f"*{line}*" for line in poem["translation"])
     return (
@@ -64,6 +64,7 @@ def waka_markdown(period: dict, poem: dict) -> str:
         f"{japanese}\n\n"
         f"{poem['author']}\n\n"
         f"{translation}\n\n"
+        f"{day.isoformat()}\n\n"
         "</div>"
     )
 
@@ -122,8 +123,7 @@ def main() -> int:
         period = current_period(day, periods)
         poem = select_waka(day, period, poems)
         contents = README.read_text(encoding="utf-8")
-        contents = replace_region(contents, "WAKA", waka_markdown(period, poem))
-        contents = replace_region(contents, "DATE", f"`{day.isoformat()}`")
+        contents = replace_region(contents, "WAKA", waka_markdown(day, period, poem))
         README.write_text(contents, encoding="utf-8")
     except (KeyError, OSError, ValueError) as exc:
         print(f"README not updated: {exc}", file=sys.stderr)

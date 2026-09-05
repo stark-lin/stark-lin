@@ -1,6 +1,9 @@
 name: Update profile
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 00:10 Asia/Tokyo (JST is UTC+9 and has no daylight-saving time)
     - cron: "10 15 * * *"

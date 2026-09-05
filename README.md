@@ -16,21 +16,13 @@
 *the sound of the wind*<br>
 *startles me into knowing it.*
 
+2026-09-05
+
 </div>
 <!-- WAKA:END -->
 
 ---
 
-# Stark Lin
-
-CS @ UNSW.
-
 Building software, AI-native products, and small experiments.
 
 [Portfolio](https://stark-lin.github.io/) · [Email](mailto:stark.lin@outlook.com)
-
----
-
-<!-- DATE:START -->
-`2026-09-05`
-<!-- DATE:END -->
