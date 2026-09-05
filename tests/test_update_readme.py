@@ -87,6 +87,25 @@ class ProfileDataTests(unittest.TestCase):
 
 
 class ReadmeRegionTests(unittest.TestCase):
+    def test_japanese_calendar_date_uses_era_year(self) -> None:
+        self.assertEqual(profile.japanese_calendar_date(date(2019, 5, 1)), "令和元年5月1日")
+        self.assertEqual(profile.japanese_calendar_date(date(2026, 9, 6)), "令和8年9月6日")
+        self.assertEqual(profile.japanese_calendar_date(date(1989, 1, 8)), "平成元年1月8日")
+
+    def test_waka_metadata_is_only_rendered_at_the_bottom(self) -> None:
+        rendered = profile.waka_markdown(
+            date(2026, 9, 6),
+            {"name": "禾乃登"},
+            {
+                "text": ["一", "二", "三", "四", "五"],
+                "author": "作者",
+                "translation": ["Translation"],
+            },
+        )
+        self.assertNotIn("禾乃登 · 2026-09-06", rendered)
+        self.assertIn("<div align=\"center\">\n\n一<br>", rendered)
+        self.assertIn("2026-09-06 UTC ｜ 令和8年9月6日 ｜ 禾乃登\n\n</div>", rendered)
+
     def test_only_generated_region_changes(self) -> None:
         contents = "before\n<!-- WAKA:START -->\nold\n<!-- WAKA:END -->\nafter\n"
         updated = profile.replace_generated_region(contents, "new")
