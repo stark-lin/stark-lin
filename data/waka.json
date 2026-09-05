@@ -1,0 +1,167 @@
+[
+  {
+    "id": "kokin-spring-001",
+    "season": "spring",
+    "season_progress": 0.08,
+    "keywords": ["春", "鶯", "白雪"],
+    "source_book": "古今和歌集",
+    "source_section": "春上",
+    "text": ["春立てば", "花とや見らむ", "白雪の", "かかれる枝に", "うぐひすの鳴く"],
+    "author": "在原元方",
+    "translation": ["With spring's arrival,", "will the white snow on the branches be seen as flowers—", "while the bush warbler sings?"]
+  },
+  {
+    "id": "kokin-spring-002",
+    "season": "spring",
+    "season_progress": 0.32,
+    "keywords": ["春", "梅", "香"],
+    "source_book": "古今和歌集",
+    "source_section": "春上",
+    "text": ["春の夜の", "闇はあやなし", "梅の花", "色こそ見えね", "香やは隠るる"],
+    "author": "凡河内躬恒",
+    "translation": ["The darkness of a spring night is no mystery:", "the plum blossoms cannot be seen,", "but can their fragrance be hidden?"]
+  },
+  {
+    "id": "kokin-spring-003",
+    "season": "spring",
+    "season_progress": 0.62,
+    "keywords": ["春", "花", "散る"],
+    "source_book": "古今和歌集",
+    "source_section": "春下",
+    "text": ["ひさかたの", "光のどけき", "春の日に", "しづ心なく", "花の散るらむ"],
+    "author": "紀友則",
+    "translation": ["In the gentle light", "of a peaceful spring day,", "why do the blossoms fall with such restless hearts?"]
+  },
+  {
+    "id": "kokin-spring-004",
+    "season": "spring",
+    "season_progress": 0.88,
+    "keywords": ["春", "花", "長雨"],
+    "source_book": "古今和歌集",
+    "source_section": "春下",
+    "text": ["花の色は", "うつりにけりな", "いたづらに", "わが身世にふる", "ながめせしまに"],
+    "author": "小野小町",
+    "translation": ["The flowers' colors have faded", "as I spent my days in idle thought", "watching the long rains fall."]
+  },
+  {
+    "id": "kokin-summer-001",
+    "season": "summer",
+    "season_progress": 0.22,
+    "keywords": ["夏", "月", "夜明け"],
+    "source_book": "古今和歌集",
+    "source_section": "夏",
+    "text": ["夏の夜は", "まだ宵ながら", "明けぬるを", "雲のいづこに", "月宿るらむ"],
+    "author": "清原深養父",
+    "translation": ["Though it was still early evening,", "the summer night has already dawned—", "where among the clouds does the moon now rest?"]
+  },
+  {
+    "id": "kokin-summer-002",
+    "season": "summer",
+    "season_progress": 0.55,
+    "keywords": ["五月", "橘", "香"],
+    "source_book": "古今和歌集",
+    "source_section": "夏",
+    "text": ["五月待つ", "花橘の", "香をかげば", "昔の人の", "袖の香ぞする"],
+    "author": "よみ人しらず",
+    "translation": ["When I breathe the scent", "of orange blossoms that wait for May,", "it is the fragrance from a loved one's sleeve long ago."]
+  },
+  {
+    "id": "kokin-summer-003",
+    "season": "summer",
+    "season_progress": 0.85,
+    "keywords": ["夏", "山", "時鳥"],
+    "source_book": "古今和歌集",
+    "source_section": "夏",
+    "text": ["夏山に", "恋しき人や", "入りにけむ", "声ふりたてて", "鳴く郭公"],
+    "author": "紀秋岑",
+    "translation": ["Has the one I long for", "gone into the summer mountains?", "The cuckoo calls out, pouring forth its voice."]
+  },
+  {
+    "id": "kokin-autumn-001",
+    "season": "autumn",
+    "season_progress": 0.10,
+    "keywords": ["秋", "風"],
+    "source_book": "古今和歌集",
+    "source_section": "秋上",
+    "text": ["秋来ぬと", "目にはさやかに", "見えねども", "風の音にぞ", "おどろかれぬる"],
+    "author": "藤原敏行",
+    "translation": ["Autumn has come, though it cannot yet be clearly seen;", "only the sound of the wind makes me realize it."]
+  },
+  {
+    "id": "kokin-autumn-002",
+    "season": "autumn",
+    "season_progress": 0.34,
+    "keywords": ["秋", "露", "野"],
+    "source_book": "古今和歌集",
+    "source_section": "秋上",
+    "text": ["白露に", "風の吹きしく", "秋の野は", "つらぬきとめぬ", "玉ぞ散りける"],
+    "author": "文屋朝康",
+    "translation": ["In the autumn fields,", "where wind blows through the white dew,", "unstrung jewels scatter everywhere."]
+  },
+  {
+    "id": "kokin-autumn-003",
+    "season": "autumn",
+    "season_progress": 0.60,
+    "keywords": ["秋", "紅葉", "竜田川"],
+    "source_book": "古今和歌集",
+    "source_section": "秋下",
+    "text": ["ちはやぶる", "神代も聞かず", "竜田川", "からくれなゐに", "水くくるとは"],
+    "author": "在原業平朝臣",
+    "translation": ["Even in the age of the gods,", "none had heard of the Tatsuta River", "binding its waters in crimson."]
+  },
+  {
+    "id": "kokin-autumn-004",
+    "season": "autumn",
+    "season_progress": 0.90,
+    "keywords": ["秋", "山", "紅葉"],
+    "source_book": "古今和歌集",
+    "source_section": "秋下",
+    "text": ["奥山に", "もみぢ踏み分け", "鳴く鹿の", "声聞く時ぞ", "秋は悲しき"],
+    "author": "よみ人しらず",
+    "translation": ["When I hear a stag", "calling as it treads through fallen leaves", "deep in the mountain,", "autumn feels sorrowful."]
+  },
+  {
+    "id": "kokin-winter-001",
+    "season": "winter",
+    "season_progress": 0.10,
+    "keywords": ["冬", "白雪", "山"],
+    "source_book": "古今和歌集",
+    "source_section": "冬",
+    "text": ["み吉野の", "山の白雪", "つもるらし", "古里寒く", "なりまさるなり"],
+    "author": "坂上是則",
+    "translation": ["White snow seems to be piling", "on Mount Yoshino;", "the old capital grows ever colder."]
+  },
+  {
+    "id": "kokin-winter-002",
+    "season": "winter",
+    "season_progress": 0.40,
+    "keywords": ["冬", "山里", "草"],
+    "source_book": "古今和歌集",
+    "source_section": "冬",
+    "text": ["山里は", "冬ぞさびしさ", "まさりける", "人目も草も", "かれぬと思へば"],
+    "author": "源宗于朝臣",
+    "translation": ["A mountain village", "feels lonelier still in winter,", "when people and grasses alike have withered away."]
+  },
+  {
+    "id": "kokin-winter-003",
+    "season": "winter",
+    "season_progress": 0.66,
+    "keywords": ["冬", "雪", "春"],
+    "source_book": "古今和歌集",
+    "source_section": "冬",
+    "text": ["冬ながら", "空より花の", "散りくるは", "雲のあなたは", "春にやあるらむ"],
+    "author": "清原深養父",
+    "translation": ["Though it is winter,", "flowers scatter down from the sky—", "perhaps beyond the clouds it is already spring."]
+  },
+  {
+    "id": "kokin-winter-004",
+    "season": "winter",
+    "season_progress": 0.90,
+    "keywords": ["雪", "草木", "春"],
+    "source_book": "古今和歌集",
+    "source_section": "冬",
+    "text": ["雪降れば", "冬ごもりせる", "草も木も", "春に知られぬ", "花ぞ咲きける"],
+    "author": "紀友則",
+    "translation": ["When snow falls,", "the grasses and trees hidden through winter", "bloom with flowers", "no spring has taught them to know."]
+  }
+]

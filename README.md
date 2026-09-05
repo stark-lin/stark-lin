@@ -1,6 +1,7 @@
+<!-- WAKA:START -->
 <div align="center">
 
-処暑 · 禾乃登
+禾乃登
 
 秋来ぬと<br>
 目にはさやかに<br>
@@ -10,38 +11,24 @@
 
 藤原敏行
 
-*Autumn has come—<br>
-though nothing yet makes it clear to the eye,<br>
-the sound of the wind<br>
-startles me into knowing it.*
-
-`2026-09-05`
+Autumn has come, though it cannot yet be clearly seen;<br>
+only the sound of the wind makes me realize it.
 
 </div>
+<!-- WAKA:END -->
 
 ---
 
-CS @ UNSW.<br>
-Building software systems, AI-native products, and small experiments.
+# Stark Lin
 
-[portfolio](https://stark-lin.github.io/) · [email](mailto:stark.lin@outlook.com)
+CS @ UNSW.
 
-## selected work
+Building software, AI-native products, and small experiments.
 
-### [saturn](https://github.com/stark-lin/saturn)
+[Portfolio](https://stark-lin.github.io/) · [Email](mailto:stark.lin@outlook.com)
 
-Local-first, self-hosted personal data infrastructure for controlled AI workflows.
+---
 
-`Go` · `PostgreSQL` · `Redis` · `Docker`
-
-### [oj-lite](https://github.com/stark-lin/oj-lite)
-
-A lightweight programming practice system designed around teacher-led classroom progression.
-
-`Go` · `Gin` · `SQLite` · `Lua`
-
-### [personal homepage](https://stark-lin.github.io/)
-
-A personal homepage.
-
-`HTML` · `CSS` · `JavaScript`
+<!-- DATE:START -->
+`2026-09-05`
+<!-- DATE:END -->
