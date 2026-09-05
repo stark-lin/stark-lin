@@ -9,7 +9,14 @@
 思えず溜る<br>
 袖露哉
 
-攝政太政大臣　藤原良經
+藤原敏行
+
+*Autumn has come—*<br>
+*though nothing yet makes it clear to the eye,*<br>
+*the sound of the wind*<br>
+*startles me into knowing it.*
+
+2026-09-06
 
 </div>
 <!-- WAKA:END -->
