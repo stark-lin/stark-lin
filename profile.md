@@ -32,5 +32,5 @@ Building software, AI-native products, and small experiments.
 ---
 
 <!-- DATE:START -->
-`2026-09-05`
+`2026-09-06`
 <!-- DATE:END -->
