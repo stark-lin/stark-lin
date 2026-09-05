@@ -15,7 +15,7 @@
 *sorrowful although my own*<br>
 *sad thoughts are never-ending*
 
-2026-09-06 ｜ 令和8年9月6日 ｜ [処暑] 禾乃登
+2026-09-05 ｜ 令和8年9月5日 ｜ [処暑] 禾乃登
 
 </div>
 <!-- WAKA:END -->
