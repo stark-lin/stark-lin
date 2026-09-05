@@ -1,3 +1,5 @@
+<div align="center">
+
 処暑 · 禾乃登
 
 秋来ぬと<br>
@@ -14,6 +16,8 @@ the sound of the wind<br>
 startles me into knowing it.*
 
 `2026-09-05`
+
+</div>
 
 ---
 
