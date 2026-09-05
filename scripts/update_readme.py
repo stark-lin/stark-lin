@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Update the generated poem and date regions of profile.md."""
+"""Update the generated poem and date regions of the profile README."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PROFILE = ROOT / "profile.md"
+README = ROOT / "README.md"
 KO_DATA = ROOT / "data" / "72ko.json"
 WAKA_DATA = ROOT / "data" / "waka.json"
 TOKYO = ZoneInfo("Asia/Tokyo")
@@ -121,12 +121,12 @@ def main() -> int:
         day = args.date if args.date else datetime.now(TOKYO).date()
         period = current_period(day, periods)
         poem = select_waka(day, period, poems)
-        contents = PROFILE.read_text(encoding="utf-8")
+        contents = README.read_text(encoding="utf-8")
         contents = replace_region(contents, "WAKA", waka_markdown(period, poem))
         contents = replace_region(contents, "DATE", f"`{day.isoformat()}`")
-        PROFILE.write_text(contents, encoding="utf-8")
+        README.write_text(contents, encoding="utf-8")
     except (KeyError, OSError, ValueError) as exc:
-        print(f"Profile not updated: {exc}", file=sys.stderr)
+        print(f"README not updated: {exc}", file=sys.stderr)
         return 1
     return 0
 
