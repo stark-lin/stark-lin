@@ -11,8 +11,10 @@
 
 藤原敏行
 
-Autumn has come, though it cannot yet be clearly seen;<br>
-only the sound of the wind makes me realize it.
+*Autumn has come—*<br>
+*though nothing yet makes it clear to the eye,*<br>
+*the sound of the wind*<br>
+*startles me into knowing it.*
 
 </div>
 <!-- WAKA:END -->

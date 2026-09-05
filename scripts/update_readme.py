@@ -57,7 +57,7 @@ def select_waka(day: date, period: dict, poems: list[dict]) -> dict:
 
 def waka_markdown(period: dict, poem: dict) -> str:
     japanese = "<br>\n".join(poem["text"])
-    translation = "<br>\n".join(poem["translation"])
+    translation = "<br>\n".join(f"*{line}*" for line in poem["translation"])
     return (
         '<div align="center">\n\n'
         f"{period['name']}\n\n"
