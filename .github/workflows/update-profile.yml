@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # 00:10 UTC
-    - cron: "10 0 * * *"
+    # 00:10 JTC
+    - cron: "10 15 * * *"
   workflow_dispatch:
 
 permissions:
