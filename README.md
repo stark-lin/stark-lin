@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-暮掛かる<br>
-虛しき空の<br>
-秋を見て<br>
-思えず溜る<br>
-袖露哉
+心無き<br>
+身にも哀は<br>
+知られけり<br>
+鴫立つ澤の<br>
+秋夕暮
 
-攝政太政大臣　藤原良經
+西行法師　佐藤義清
 
-*as darkness begins*<br>
-*to dim the empty skies of*<br>
-*autumn I gaze out*<br>
-*unaware of the drops of*<br>
-*dew gathering on my sleeves*
+*even a body*<br>
+*which has rejected matters*<br>
+*of the heart feels pangs*<br>
+*of melancholy snipe rise from*<br>
+*the marsh evening in autumn*
 
-2026-09-06 ｜ 令和8年9月6日 ｜ [処暑] 禾乃登
+2026-09-07 ｜ 令和8年9月7日 ｜ [白露] 草露白
 
 </div>
 <!-- WAKA:END -->
