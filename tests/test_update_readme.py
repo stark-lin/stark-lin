@@ -8,7 +8,7 @@ import json
 import sys
 import tempfile
 import unittest
-from datetime import date
+from datetime import UTC, date, datetime
 from pathlib import Path
 from unittest import mock
 
@@ -87,6 +87,16 @@ class ProfileDataTests(unittest.TestCase):
 
 
 class ReadmeRegionTests(unittest.TestCase):
+    def test_current_tokyo_date_converts_utc_at_midnight_boundary(self) -> None:
+        self.assertEqual(
+            profile.current_tokyo_date(datetime(2026, 9, 6, 14, 59, tzinfo=UTC)),
+            date(2026, 9, 6),
+        )
+        self.assertEqual(
+            profile.current_tokyo_date(datetime(2026, 9, 6, 15, 0, tzinfo=UTC)),
+            date(2026, 9, 7),
+        )
+
     def test_japanese_calendar_date_uses_era_year(self) -> None:
         self.assertEqual(profile.japanese_calendar_date(date(2019, 5, 1)), "令和元年5月1日")
         self.assertEqual(profile.japanese_calendar_date(date(2026, 9, 6)), "令和8年9月6日")

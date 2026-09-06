@@ -13,12 +13,14 @@ import tempfile
 from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 KO_DATA = ROOT / "data" / "72ko.json"
 WAKA_DATA = ROOT / "data" / "waka.json"
+TOKYO_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SEASONS = {"spring", "summer", "autumn", "winter"}
 BOOK_SEASONS = {
     "春歌上": "spring",
@@ -229,6 +231,12 @@ def select_waka(day: date, ko: dict[str, Any], poems: list[dict[str, Any]]) -> d
     return candidates[index]
 
 
+def current_tokyo_date(now: datetime | None = None) -> date:
+    if now is None:
+        now = datetime.now(UTC)
+    return now.astimezone(TOKYO_TIMEZONE).date()
+
+
 def japanese_calendar_date(day: date) -> str:
     for era_start, era_name in JAPANESE_ERAS:
         if day >= era_start:
@@ -293,7 +301,7 @@ def atomic_write(path: Path, contents: str) -> None:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--date", type=date.fromisoformat, help="UTC date for a reproducible update (YYYY-MM-DD)"
+        "--date", type=date.fromisoformat, help="Tokyo date for a reproducible update (YYYY-MM-DD)"
     )
     parser.add_argument(
         "--check", action="store_true", help="validate data and README markers without modifying README"
@@ -306,7 +314,7 @@ def main() -> int:
     try:
         periods = validate_periods(load_json(KO_DATA))
         poems = validate_poems(load_json(WAKA_DATA), periods)
-        day = args.date if args.date else datetime.now(UTC).date()
+        day = args.date if args.date else current_tokyo_date()
         ko = current_ko(day, periods)
         poem = select_waka(day, ko, poems)
         contents = README.read_text(encoding="utf-8")

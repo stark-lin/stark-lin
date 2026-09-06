@@ -72,15 +72,15 @@ DIGRAPHS = {
 SPECIAL_TRANSLATIONS = {
     165: [
         "surely the season",
-        "has passed I thought        the blooms must",
-        "be gone           yet at this",
+        "has passed I thought the blooms must",
+        "be gone yet at this",
         "house where wisteria vines",
         "flower spring is eternal",
     ],
     210: [
         "what am I to do",
-        "with my heart       this is his cry",
-        "it seems              nightingale",
+        "with my heart this is his cry",
+        "it seems nightingale",
         "calling out in the moonlight",
         "gleaming from between the clouds",
     ],
@@ -95,7 +95,7 @@ SPECIAL_TRANSLATIONS = {
         "near Takamado’s",
         "slopes the tips of small bamboo",
         "that line the field paths",
-        "rustle    now I know that wintry",
+        "rustle now I know that wintry",
         "winds began to blow today",
     ],
     458: [
@@ -109,14 +109,14 @@ SPECIAL_TRANSLATIONS = {
         "in this house where all",
         "the leaves have fallen I spread",
         "but one side of my",
-        "robe      though my sleeves are brightly",
+        "robe though my sleeves are brightly",
         "dyed the storm passes unaware",
     ],
     660: [
         "the first snow fallen",
         "on the ancient Furu shrine",
         "buries the holy",
-        "cedars     fields bound by sacred",
+        "cedars fields bound by sacred",
         "ropes hibernate for winter",
     ],
 }
@@ -152,6 +152,11 @@ def normalize(value: str) -> str:
     value = value.lower().translate(str.maketrans("āēīōū", "aeiou"))
     value = re.sub(r"[^a-z]", "", value)
     return value.replace("ou", "o").replace("oo", "o").replace("ei", "e")
+
+
+def normalize_translation_spacing(value: str) -> str:
+    """Collapse PDF column-padding whitespace in an extracted verse line."""
+    return re.sub(r"[ \t]+", " ", value)
 
 
 def levenshtein(left: str, right: str) -> int:
@@ -212,13 +217,16 @@ def extract_book(lines: list[str], poems_by_number: dict[int, dict], numbers: ra
             if found is None:
                 break
             current, row = found
-            translation.append(row[1])
+            translation.append(normalize_translation_spacing(row[1]))
             current += 1
         if len(translation) == 5:
             extracted[number] = translation
             position = current
         elif number in SPECIAL_TRANSLATIONS:
-            extracted[number] = SPECIAL_TRANSLATIONS[number]
+            extracted[number] = [
+                normalize_translation_spacing(line)
+                for line in SPECIAL_TRANSLATIONS[number]
+            ]
             position = heading_index + 1
         else:
             raise ValueError(f"Could not parse all five verses for poem {number}")
