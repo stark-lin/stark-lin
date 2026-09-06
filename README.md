@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-蜩の<br>
-鳴く夕暮ぞ<br>
-憂かりける<br>
-何時も盡きせぬ<br>
-思為れども
+暮掛かる<br>
+虛しき空の<br>
+秋を見て<br>
+思えず溜る<br>
+袖露哉
 
-藤原長能
+攝政太政大臣　藤原良經
 
-*those evenings when*<br>
-*the cicadas shrill are*<br>
-*particularly*<br>
-*sorrowful although my own*<br>
-*sad thoughts are never-ending*
+*as darkness begins*<br>
+*to dim the empty skies of*<br>
+*autumn I gaze out*<br>
+*unaware of the drops of*<br>
+*dew gathering on my sleeves*
 
-2026-09-05 ｜ 令和8年9月5日 ｜ [処暑] 禾乃登
+2026-09-06 ｜ 令和8年9月6日 ｜ [処暑] 禾乃登
 
 </div>
 <!-- WAKA:END -->
