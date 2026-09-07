@@ -22,6 +22,8 @@ KO_DATA = ROOT / "data" / "72ko.json"
 WAKA_DATA = ROOT / "data" / "waka.json"
 TOKYO_TIMEZONE = ZoneInfo("Asia/Tokyo")
 SEASONS = {"spring", "summer", "autumn", "winter"}
+RECENCY_COOLDOWN_DAYS = 30
+SELECTION_EPOCH = date(2024, 1, 1)
 BOOK_SEASONS = {
     "春歌上": "spring",
     "春歌下": "spring",
@@ -219,16 +221,100 @@ def validate_poems(
     return payload
 
 
-def select_waka(day: date, ko: dict[str, Any], poems: list[dict[str, Any]]) -> dict[str, Any]:
-    candidates = [poem for poem in poems if ko["name"] in poem["allowed_ko"]]
-    candidates.sort(key=lambda poem: poem["id"])
-    if not candidates:
-        raise ValueError(f"no eligible waka for {ko['name']}")
+def specificity_weight(poem: dict[str, Any]) -> float:
+    """Prefer waka tied to fewer ko without excluding broadly applicable poems."""
+    return 1.0 / len(poem["allowed_ko"])
+
+
+def deterministic_weighted_choice(
+    day: date, ko: dict[str, Any], candidates: list[dict[str, Any]]
+) -> dict[str, Any]:
+    """Choose reproducibly from weighted candidates for a given Tokyo date and ko."""
+    ordered = sorted(candidates, key=lambda poem: poem["id"])
+    weights = [specificity_weight(poem) for poem in ordered]
+    total = sum(weights)
 
     key = f"{day.isoformat()}:{ko['name']}".encode("utf-8")
     digest = hashlib.sha256(key).digest()
-    index = int.from_bytes(digest[:8], "big") % len(candidates)
-    return candidates[index]
+    unit = int.from_bytes(digest[:8], "big") / (1 << 64)
+    target = unit * total
+
+    cumulative = 0.0
+    for poem, weight in zip(ordered, weights):
+        cumulative += weight
+        if target < cumulative:
+            return poem
+    return ordered[-1]
+
+
+def select_waka(
+    day: date,
+    ko: dict[str, Any],
+    poems: list[dict[str, Any]],
+    history: list[tuple[date, str]],
+) -> dict[str, Any]:
+    """
+    Select today's waka.
+
+    Rules:
+    1. Only waka allowed for the current ko are eligible.
+    2. Prefer waka not used in the last RECENCY_COOLDOWN_DAYS.
+    3. If every candidate is inside the cooldown, still avoid yesterday when possible.
+    4. Within the resulting pool, waka matching fewer ko receive more weight.
+    5. Selection is deterministic for the same date/data.
+    """
+    candidates = [poem for poem in poems if ko["name"] in poem["allowed_ko"]]
+    if not candidates:
+        raise ValueError(f"no eligible waka for {ko['name']}")
+
+    recent_ids = {
+        poem_id
+        for used_day, poem_id in history
+        if 0 < (day - used_day).days <= RECENCY_COOLDOWN_DAYS
+    }
+    fresh = [poem for poem in candidates if poem["id"] not in recent_ids]
+
+    if fresh:
+        pool = fresh
+    else:
+        yesterday = day - timedelta(days=1)
+        yesterday_ids = {
+            poem_id for used_day, poem_id in history if used_day == yesterday
+        }
+        not_yesterday = [
+            poem for poem in candidates if poem["id"] not in yesterday_ids
+        ]
+        pool = not_yesterday or candidates
+
+    return deterministic_weighted_choice(day, ko, pool)
+
+
+def select_waka_for_date(
+    target_day: date,
+    periods: list[dict[str, Any]],
+    poems: list[dict[str, Any]],
+) -> dict[str, Any]:
+    """
+    Replay selections from a fixed epoch so cross-ko cooldown works without state files.
+
+    The replay is cheap (roughly one iteration per day) and makes reruns reproducible.
+    """
+    start_day = min(SELECTION_EPOCH, target_day)
+    history: list[tuple[date, str]] = []
+    current = start_day
+
+    while current <= target_day:
+        ko = current_ko(current, periods)
+        poem = select_waka(current, ko, poems, history)
+        if current == target_day:
+            return poem
+
+        history.append((current, poem["id"]))
+        cutoff = current - timedelta(days=RECENCY_COOLDOWN_DAYS)
+        history = [(used_day, poem_id) for used_day, poem_id in history if used_day > cutoff]
+        current += timedelta(days=1)
+
+    raise ValueError(f"could not select waka for {target_day.isoformat()}")
 
 
 def current_tokyo_date(now: datetime | None = None) -> date:
@@ -316,7 +402,7 @@ def main() -> int:
         poems = validate_poems(load_json(WAKA_DATA), periods)
         day = args.date if args.date else current_tokyo_date()
         ko = current_ko(day, periods)
-        poem = select_waka(day, ko, poems)
+        poem = select_waka_for_date(day, periods, poems)
         contents = README.read_text(encoding="utf-8")
         updated = replace_generated_region(contents, waka_markdown(day, ko, poem))
         if not args.check and updated != contents:
