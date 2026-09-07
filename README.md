@@ -22,7 +22,7 @@
 
 ---
 
-Building software, AI-native products, and small experiments.
+Building software, AI-native products, and strange experiments.
 
 [Portfolio](https://stark-lin.github.io/) · [Email](mailto:stark.lin@outlook.com)
 
