@@ -1,19 +1,19 @@
 <!-- WAKA:START -->
 <div align="center">
 
-心無き<br>
-身にも哀は<br>
-知られけり<br>
-鴫立つ澤の<br>
-秋夕暮
+月見れば<br>
+思ひぞ堪へぬ<br>
+山高み<br>
+孰年の<br>
+雪にか有るらむ
 
-西行法師　佐藤義清
+大宰大貳　藤原重家
 
-*even a body*<br>
-*which has rejected matters*<br>
-*of the heart feels pangs*<br>
-*of melancholy snipe rise from*<br>
-*the marsh evening in autumn*
+*as I gaze upon*<br>
+*the brilliant moon I cannot*<br>
+*imagine which*<br>
+*year’s snowfall it is that lies*<br>
+*glistening still on mountain heights*
 
 2026-09-07 ｜ 令和8年9月7日 ｜ [白露] 草露白
 
