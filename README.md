@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-月見れば<br>
-思ひぞ堪へぬ<br>
-山高み<br>
-孰年の<br>
-雪にか有るらむ
+眺めつつ<br>
+思ふも寂し<br>
+久方の<br>
+月都の<br>
+明方空
 
-大宰大貳　藤原重家
+藤原家隆朝臣
 
-*as I gaze upon*<br>
-*the brilliant moon I cannot*<br>
-*imagine which*<br>
-*year’s snowfall it is that lies*<br>
-*glistening still on mountain heights*
+*as I gaze afar*<br>
+*even my reveries grow*<br>
+*melancholy sky*<br>
+*at daybreak a new day comes*<br>
+*to the palace on the moon*
 
-2026-09-07 ｜ 令和8年9月7日 ｜ [白露] 草露白
+2026-09-08 ｜ 令和8年9月8日 ｜ [白露] 草露白
 
 </div>
 <!-- WAKA:END -->
