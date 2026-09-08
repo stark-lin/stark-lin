@@ -5,8 +5,16 @@ on:
     branches:
       - main
   schedule:
-    # 00:10 JTC
-    - cron: "10 15 * * *"
+  # Primary update window: 00:10–00:55 JST
+  # Multiple triggers reduce the chance of a delayed or dropped scheduled run.
+  - cron: "10 15 * * *" # 00:10 JST
+  - cron: "25 15 * * *" # 00:25 JST
+  - cron: "40 15 * * *" # 00:40 JST
+  - cron: "55 15 * * *" # 00:55 JST
+
+  # Final fallback in case the primary window is heavily delayed.
+  - cron: "10 19 * * *" # 04:10 JST
+  
   workflow_dispatch:
 
 permissions:
