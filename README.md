@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-眺めつつ<br>
-思ふも寂し<br>
-久方の<br>
-月都の<br>
-明方空
+押並て<br>
+思ひし事の<br>
+數數に<br>
+猶色增さる<br>
+秋夕暮
 
-藤原家隆朝臣
+攝政太政大臣　藤原良經
 
-*as I gaze afar*<br>
-*even my reveries grow*<br>
-*melancholy sky*<br>
-*at daybreak a new day comes*<br>
-*to the palace on the moon*
+*more powerful still*<br>
+*than all the images I’ve*<br>
+*ever called to mind*<br>
+*more resonant more plangent*<br>
+*is the evening in autumn*
 
-2026-09-08 ｜ 令和8年9月8日 ｜ [白露] 草露白
+2026-09-09 ｜ 令和8年9月9日 ｜ [白露] 草露白
 
 </div>
 <!-- WAKA:END -->
