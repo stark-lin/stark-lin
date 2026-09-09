@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-押並て<br>
-思ひし事の<br>
-數數に<br>
-猶色增さる<br>
-秋夕暮
+蜩の<br>
+鳴く夕暮ぞ<br>
+憂かりける<br>
+何時も盡きせぬ<br>
+思為れども
 
-攝政太政大臣　藤原良經
+藤原長能
 
-*more powerful still*<br>
-*than all the images I’ve*<br>
-*ever called to mind*<br>
-*more resonant more plangent*<br>
-*is the evening in autumn*
+*those evenings when*<br>
+*the cicadas shrill are*<br>
+*particularly*<br>
+*sorrowful although my own*<br>
+*sad thoughts are never-ending*
 
-2026-09-09 ｜ 令和8年9月9日 ｜ [白露] 草露白
+2026-09-10 ｜ 令和8年9月10日 ｜ [白露] 草露白
 
 </div>
 <!-- WAKA:END -->
