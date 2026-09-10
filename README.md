@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-蜩の<br>
-鳴く夕暮ぞ<br>
-憂かりける<br>
-何時も盡きせぬ<br>
-思為れども
+小倉山<br>
+麓野邊の<br>
+花薄<br>
+髣髴に見ゆる<br>
+秋夕暮
 
-藤原長能
+佚名
 
-*those evenings when*<br>
-*the cicadas shrill are*<br>
-*particularly*<br>
-*sorrowful although my own*<br>
-*sad thoughts are never-ending*
+*Ogura Mountain*<br>
+*at its foot flowering plume*<br>
+*grass blankets the fields*<br>
+*spearheads dimly visible*<br>
+*this dusky autumn evening*
 
-2026-09-10 ｜ 令和8年9月10日 ｜ [白露] 草露白
+2026-09-11 ｜ 令和8年9月11日 ｜ [白露] 草露白
 
 </div>
 <!-- WAKA:END -->
