@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-小倉山<br>
-麓野邊の<br>
-花薄<br>
-髣髴に見ゆる<br>
-秋夕暮
+文無くも<br>
+曇らぬ宵を<br>
+厭哉<br>
+信夫里の<br>
+秋夜月
 
-佚名
+橘為仲朝臣
 
-*Ogura Mountain*<br>
-*at its foot flowering plume*<br>
-*grass blankets the fields*<br>
-*spearheads dimly visible*<br>
-*this dusky autumn evening*
+*I cannot help but*<br>
+*feel hatred for the cloudless*<br>
+*night the brilliant moon*<br>
+*of autumn illumines my*<br>
+*retreat Shinobu Village*
 
-2026-09-11 ｜ 令和8年9月11日 ｜ [白露] 草露白
+2026-09-12 ｜ 令和8年9月12日 ｜ [白露] 鶺鴒鳴
 
 </div>
 <!-- WAKA:END -->
