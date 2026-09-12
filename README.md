@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-文無くも<br>
-曇らぬ宵を<br>
-厭哉<br>
-信夫里の<br>
-秋夜月
+足引の<br>
+山彼方に<br>
+住む人は<br>
+待たでや秋の<br>
+月を見るらむ
 
-橘為仲朝臣
+三條院御歌
 
-*I cannot help but*<br>
-*feel hatred for the cloudless*<br>
-*night the brilliant moon*<br>
-*of autumn illumines my*<br>
-*retreat Shinobu Village*
+*it seems that those who*<br>
+*make their homes on the other*<br>
+*side of these rugged*<br>
+*aki no mountains can gaze upon it*<br>
+*without delay autumn’s moon*
 
-2026-09-12 ｜ 令和8年9月12日 ｜ [白露] 鶺鴒鳴
+2026-09-13 ｜ 令和8年9月13日 ｜ [白露] 鶺鴒鳴
 
 </div>
 <!-- WAKA:END -->
