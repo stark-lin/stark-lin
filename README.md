@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-足引の<br>
-山彼方に<br>
-住む人は<br>
-待たでや秋の<br>
-月を見るらむ
+秋夜の<br>
+月や雄島の<br>
+天原<br>
+明方近き<br>
+瀛釣舟
 
-三條院御歌
+藤原家隆朝臣
 
-*it seems that those who*<br>
-*make their homes on the other*<br>
-*side of these rugged*<br>
-*aki no mountains can gaze upon it*<br>
-*without delay autumn’s moon*
+*does it mourn the moon*<br>
+*of the autumn night drifting*<br>
+*above Ojima*<br>
+*through heaven’s plains as dawn nears—*<br>
+*fishing boat in the offing*
 
-2026-09-13 ｜ 令和8年9月13日 ｜ [白露] 鶺鴒鳴
+2026-09-14 ｜ 令和8年9月14日 ｜ [白露] 鶺鴒鳴
 
 </div>
 <!-- WAKA:END -->
