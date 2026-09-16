@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-風吹けば<br>
-玉散る萩の<br>
-下露に<br>
-儚く宿る<br>
-野邊月哉
+足引の<br>
+山路苔の<br>
+露上に<br>
+寢覺夜深き<br>
+月を見哉
 
-法性寺入道前太政大臣　藤原忠通
+藤原秀能
 
-*when the winds blow*<br>
-*the moon of the fields lodges but*<br>
-*briefly in dewdrops*<br>
-*on the bush clover’s lower*<br>
-*branches falling like jewels*
+*in the shining dew*<br>
+*on the velvet moss of these*<br>
+*paths through the rugged*<br>
+*mountains awakened from my*<br>
+*sleep I see the late night moon*
 
-2026-09-16 ｜ 令和8年9月16日 ｜ [白露] 鶺鴒鳴
+2026-09-17 ｜ 令和8年9月17日 ｜ [白露] 玄鳥去
 
 </div>
 <!-- WAKA:END -->
