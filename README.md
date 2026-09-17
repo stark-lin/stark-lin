@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-足引の<br>
-山路苔の<br>
-露上に<br>
-寢覺夜深き<br>
-月を見哉
+時しも有れ<br>
+故鄉人は<br>
+音もせで<br>
+深山月に<br>
+秋風ぞ吹く
 
-藤原秀能
+攝政太政大臣　藤原良經
 
-*in the shining dew*<br>
-*on the velvet moss of these*<br>
-*paths through the rugged*<br>
-*mountains awakened from my*<br>
-*sleep I see the late night moon*
+*just at this time when*<br>
+*I no longer hear from those*<br>
+*I once knew well on*<br>
+*the moon over the lovely*<br>
+*mountains the autumn winds sough*
 
-2026-09-17 ｜ 令和8年9月17日 ｜ [白露] 玄鳥去
+2026-09-18 ｜ 令和8年9月18日 ｜ [白露] 玄鳥去
 
 </div>
 <!-- WAKA:END -->
