@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-時しも有れ<br>
-故鄉人は<br>
-音もせで<br>
-深山月に<br>
-秋風ぞ吹く
+雁來る<br>
+伏見小田に<br>
+夢覺めて<br>
+寢夜庵に<br>
+月を見哉
 
-攝政太政大臣　藤原良經
+前大僧正慈圓
 
-*just at this time when*<br>
-*I no longer hear from those*<br>
-*I once knew well on*<br>
-*the moon over the lovely*<br>
-*mountains the autumn winds sough*
+*awakened from my*<br>
+*dreams by geese winging toward*<br>
+*the little fields of*<br>
+*Fushimi I see the moon*<br>
+*from my hut this sleepless night*
 
-2026-09-18 ｜ 令和8年9月18日 ｜ [白露] 玄鳥去
+2026-09-19 ｜ 令和8年9月19日 ｜ [白露] 玄鳥去
 
 </div>
 <!-- WAKA:END -->
