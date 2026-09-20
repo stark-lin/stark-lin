@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-深からぬ<br>
-外山庵の<br>
-寢覺だに<br>
-然ぞな木間の<br>
-月は寂しき
+眺むれば<br>
+千千に物思ふ<br>
+月に復<br>
+我が身一つの<br>
+峰松風
 
-攝政太政大臣　藤原良經
+鴨長明
 
-*even when I am*<br>
-*not deep in the mountains when*<br>
-*I wake from sleep in*<br>
-*a dwelling in the foothills*<br>
-*sad is the moonlight through the trees*
+*as I sit and gaze*<br>
+*a thousand things draw my thoughts—*<br>
+*the brilliant moon and*<br>
+*in addition on my self*<br>
+*alone pine winds from the peak*
 
-2026-09-20 ｜ 令和8年9月20日 ｜ [白露] 玄鳥去
+2026-09-21 ｜ 令和8年9月21日 ｜ [白露] 玄鳥去
 
 </div>
 <!-- WAKA:END -->
