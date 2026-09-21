@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-眺むれば<br>
-千千に物思ふ<br>
-月に復<br>
-我が身一つの<br>
-峰松風
+秋夜は<br>
+宿かる月も<br>
+露ながら<br>
+袖に吹きこす<br>
+荻上風
 
-鴨長明
+右衛門督　源通具
 
-*as I sit and gaze*<br>
-*a thousand things draw my thoughts—*<br>
-*the brilliant moon and*<br>
-*in addition on my self*<br>
-*alone pine winds from the peak*
+*on an autumn night*<br>
+*as the moon takes its lodging*<br>
+*in glowing dewdrops*<br>
+*my flowing sleeves are cooled*<br>
+*by wind from the tips of reeds*
 
-2026-09-21 ｜ 令和8年9月21日 ｜ [白露] 玄鳥去
+2026-09-22 ｜ 令和8年9月22日 ｜ [秋分] 雷乃収声
 
 </div>
 <!-- WAKA:END -->
