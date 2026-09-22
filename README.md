@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋夜は<br>
-宿かる月も<br>
-露ながら<br>
-袖に吹きこす<br>
-荻上風
+鳰海や<br>
+月光の<br>
+映ろへば<br>
+浪花にも<br>
+秋は見えけり
 
-右衛門督　源通具
+藤原家隆朝臣
 
-*on an autumn night*<br>
-*as the moon takes its lodging*<br>
-*in glowing dewdrops*<br>
-*my flowing sleeves are cooled*<br>
-*by wind from the tips of reeds*
+*on the Nio Sea*<br>
+*when moonlight is mirrored in*<br>
+*the waters on those*<br>
+*white-capped blooms of the waves too*<br>
+*autumn’s tints are visible*
 
-2026-09-22 ｜ 令和8年9月22日 ｜ [秋分] 雷乃収声
+2026-09-23 ｜ 令和8年9月23日 ｜ [秋分] 雷乃収声
 
 </div>
 <!-- WAKA:END -->
