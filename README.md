@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-鳰海や<br>
-月光の<br>
-映ろへば<br>
-浪花にも<br>
-秋は見えけり
+鳴鹿の<br>
+聲に目覺めて<br>
+忍哉<br>
+見果てぬ夢の<br>
+秋思を
 
-藤原家隆朝臣
+前大僧正慈圓
 
-*on the Nio Sea*<br>
-*when moonlight is mirrored in*<br>
-*the waters on those*<br>
-*white-capped blooms of the waves too*<br>
-*autumn’s tints are visible*
+*awakened by mournful*<br>
+*voices of the belling deer*<br>
+*I go on yearning*<br>
+*sad autumn thoughts of a dream*<br>
+*begun but left half-finished*
 
-2026-09-23 ｜ 令和8年9月23日 ｜ [秋分] 雷乃収声
+2026-09-24 ｜ 令和8年9月24日 ｜ [秋分] 雷乃収声
 
 </div>
 <!-- WAKA:END -->
