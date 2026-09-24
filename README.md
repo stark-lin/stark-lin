@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-鳴鹿の<br>
-聲に目覺めて<br>
-忍哉<br>
-見果てぬ夢の<br>
-秋思を
+松島や<br>
+鹽汲む海女の<br>
+秋袖<br>
+月は物思ふ<br>
+習のみかは
 
-前大僧正慈圓
+鴨長明
 
-*awakened by mournful*<br>
-*voices of the belling deer*<br>
-*I go on yearning*<br>
-*sad autumn thoughts of a dream*<br>
-*begun but left half-finished*
+*at Matsushima*<br>
+*on the autumn sleeves of those*<br>
+*fisherfolk who dip*<br>
+*salt water the moonʼs visits*<br>
+*not only for those who grieve*
 
-2026-09-24 ｜ 令和8年9月24日 ｜ [秋分] 雷乃収声
+2026-09-25 ｜ 令和8年9月25日 ｜ [秋分] 雷乃収声
 
 </div>
 <!-- WAKA:END -->
