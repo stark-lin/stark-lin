@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-松島や<br>
-鹽汲む海女の<br>
-秋袖<br>
-月は物思ふ<br>
-習のみかは
+山颪に<br>
+鹿音高く<br>
+聞ゆ也<br>
+尾上月に<br>
+小夜や更けぬる
 
-鴨長明
+入道左大臣　藤原實房
 
-*at Matsushima*<br>
-*on the autumn sleeves of those*<br>
-*fisherfolk who dip*<br>
-*salt water the moonʼs visits*<br>
-*not only for those who grieve*
+*carried by the storm*<br>
+*howling down the mountains we*<br>
+*hear the cries of deer—*<br>
+*has the night grown so late while*<br>
+*the moon climbed over the peaks*
 
-2026-09-25 ｜ 令和8年9月25日 ｜ [秋分] 雷乃収声
+2026-09-26 ｜ 令和8年9月26日 ｜ [秋分] 雷乃収声
 
 </div>
 <!-- WAKA:END -->
