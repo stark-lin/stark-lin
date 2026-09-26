@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-山颪に<br>
-鹿音高く<br>
-聞ゆ也<br>
-尾上月に<br>
-小夜や更けぬる
+今よりは<br>
+秋風寒く<br>
+成りぬべし<br>
+如何でか獨<br>
+長夜を寢む
 
-入道左大臣　藤原實房
+中納言　大伴家持
 
-*carried by the storm*<br>
-*howling down the mountains we*<br>
-*hear the cries of deer—*<br>
-*has the night grown so late while*<br>
-*the moon climbed over the peaks*
+*from this moment on*<br>
+*I know autumn winds must grow*<br>
+*ever colder how*<br>
+*then will I be able to*<br>
+*sleep the long night all alone*
 
-2026-09-26 ｜ 令和8年9月26日 ｜ [秋分] 雷乃収声
+2026-09-27 ｜ 令和8年9月27日 ｜ [秋分] 蟄虫坏戸
 
 </div>
 <!-- WAKA:END -->
