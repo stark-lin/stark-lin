@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-今よりは<br>
-秋風寒く<br>
-成りぬべし<br>
-如何でか獨<br>
-長夜を寢む
+雲は咸<br>
+拂果てたる<br>
+秋風を<br>
+松に殘して<br>
+月を見哉
 
-中納言　大伴家持
+攝政太政大臣　藤原良經
 
-*from this moment on*<br>
-*I know autumn winds must grow*<br>
-*ever colder how*<br>
-*then will I be able to*<br>
-*sleep the long night all alone*
+*I waited for cool*<br>
+*autumn winds to sweep away*<br>
+*all the clouds whipping*<br>
+*through the branches of the pines*<br>
+*leaving the bright moon behind*
 
-2026-09-27 ｜ 令和8年9月27日 ｜ [秋分] 蟄虫坏戸
+2026-09-28 ｜ 令和8年9月28日 ｜ [秋分] 蟄虫坏戸
 
 </div>
 <!-- WAKA:END -->
