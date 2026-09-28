@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-雲は咸<br>
-拂果てたる<br>
-秋風を<br>
-松に殘して<br>
-月を見哉
+小山田の<br>
+庵近く鳴く<br>
+鹿音に<br>
+忪かされて<br>
+驚かす哉
 
-攝政太政大臣　藤原良經
+西行法師　佐藤義清
 
-*I waited for cool*<br>
-*autumn winds to sweep away*<br>
-*all the clouds whipping*<br>
-*through the branches of the pines*<br>
-*leaving the bright moon behind*
+*startled awake by*<br>
+*the belling of a deer*<br>
+*near my mountain hut*<br>
+*in the rice paddies now in*<br>
+*turn I’ll startle him away*
 
-2026-09-28 ｜ 令和8年9月28日 ｜ [秋分] 蟄虫坏戸
+2026-09-29 ｜ 令和8年9月29日 ｜ [秋分] 蟄虫坏戸
 
 </div>
 <!-- WAKA:END -->
