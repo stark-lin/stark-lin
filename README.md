@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-蟋蟀<br>
-夜寒に秋の<br>
-成る儘に<br>
-弱るか聲の<br>
-遠離行く
+秋田の<br>
+假寢床の<br>
+稻筵<br>
+月宿れとも<br>
+敷ける露哉
 
-西行法師　佐藤義清
+大中臣定雅
 
-*the chirping crickets—*<br>
-*as autumn passes each*<br>
-*night growing colder—*<br>
-*seem to weaken their voices*<br>
-*fading into the distance*
+*my rice straw matting*<br>
+*temporary resting place*<br>
+*in harvested fields*<br>
+*spread with dewdrops the moon seems*<br>
+*to implore to settle here*
 
-2026-10-01 ｜ 令和8年10月1日 ｜ [秋分] 蟄虫坏戸
+2026-10-02 ｜ 令和8年10月2日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
