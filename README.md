@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋田の<br>
-假寢床の<br>
-稻筵<br>
-月宿れとも<br>
-敷ける露哉
+狹莚や<br>
+待月秋の<br>
+風吹けて<br>
+月を片敷く<br>
+宇治橋姬
 
-大中臣定雅
+藤原定家朝臣
 
-*my rice straw matting*<br>
-*temporary resting place*<br>
-*in harvested fields*<br>
-*spread with dewdrops the moon seems*<br>
-*to implore to settle here*
+*on thin straw matting*<br>
+*in the darkening wind of*<br>
+*this waiting night’s autumn*<br>
+*she half-spreads the bright moonlight*<br>
+*the bridge maiden of Uji*
 
-2026-10-02 ｜ 令和8年10月2日 ｜ [秋分] 水始涸
+2026-10-03 ｜ 令和8年10月3日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
