@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-狹莚や<br>
-待月秋の<br>
-風吹けて<br>
-月を片敷く<br>
-宇治橋姬
+露は袖に<br>
+物思頃は<br>
+然ぞな置く<br>
+必秋の<br>
+習為らねど
 
-藤原定家朝臣
+太上天皇　後鳥羽帝
 
-*on thin straw matting*<br>
-*in the darkening wind of*<br>
-*this waiting night’s autumn*<br>
-*she half-spreads the bright moonlight*<br>
-*the bridge maiden of Uji*
+*how thickly dewdrops*<br>
+*settle on my sleeves in this*<br>
+*season of brooding thoughts*<br>
+*yet I know their falling is*<br>
+*not confined to autumn alone*
 
-2026-10-03 ｜ 令和8年10月3日 ｜ [秋分] 水始涸
+2026-10-04 ｜ 令和8年10月4日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
