@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-露は袖に<br>
-物思頃は<br>
-然ぞな置く<br>
-必秋の<br>
-習為らねど
+草葉には<br>
+玉と見えつつ<br>
+侘人の<br>
+袖淚の<br>
+秋白露
 
-太上天皇　後鳥羽帝
+菅贈太政大臣　菅原道真
 
-*how thickly dewdrops*<br>
-*settle on my sleeves in this*<br>
-*season of brooding thoughts*<br>
-*yet I know their falling is*<br>
-*not confined to autumn alone*
+*on the blades of grass*<br>
+*I’ve seen them come to rest like*<br>
+*jewels white dewdrops*<br>
+*of autumn those tears fallen*<br>
+*on the sleeves of one who grieves*
 
-2026-10-04 ｜ 令和8年10月4日 ｜ [秋分] 水始涸
+2026-10-05 ｜ 令和8年10月5日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
