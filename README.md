@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-草葉には<br>
-玉と見えつつ<br>
-侘人の<br>
-袖淚の<br>
-秋白露
+大方に<br>
+秋寢覺の<br>
+露けくは<br>
+復誰が袖に<br>
+有明月
 
-菅贈太政大臣　菅原道真
+二條院讚岐
 
-*on the blades of grass*<br>
-*I’ve seen them come to rest like*<br>
-*jewels white dewdrops*<br>
-*of autumn those tears fallen*<br>
-*on the sleeves of one who grieves*
+*desolate autumn—*<br>
+*any who awaken must*<br>
+*be drenched with dewdrops*<br>
+*but does the moon of daybreak*<br>
+*ever lodge on others’ sleeves*
 
-2026-10-05 ｜ 令和8年10月5日 ｜ [秋分] 水始涸
+2026-10-06 ｜ 令和8年10月6日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
