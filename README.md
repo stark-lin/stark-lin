@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-大方に<br>
-秋寢覺の<br>
-露けくは<br>
-復誰が袖に<br>
-有明月
+衣擣つ<br>
+音は枕に<br>
+菅原や<br>
+伏見夢を<br>
+幾夜殘しつ
 
-二條院讚岐
+前大僧正慈圓
 
-*desolate autumn—*<br>
-*any who awaken must*<br>
-*be drenched with dewdrops*<br>
-*but does the moon of daybreak*<br>
-*ever lodge on others’ sleeves*
+*in Fushimi of*<br>
+*Sugawara mallets strike*<br>
+*cloth on fulling blocks*<br>
+*near my pillow how many nights*<br>
+*were my dreams left incomplete*
 
-2026-10-06 ｜ 令和8年10月6日 ｜ [秋分] 水始涸
+2026-10-07 ｜ 令和8年10月7日 ｜ [秋分] 水始涸
 
 </div>
 <!-- WAKA:END -->
