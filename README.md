@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-衣擣つ<br>
-音は枕に<br>
-菅原や<br>
-伏見夢を<br>
-幾夜殘しつ
+覺束無<br>
+野にも山にも<br>
+白露の<br>
+何事をかは<br>
+思置くらむ
 
-前大僧正慈圓
+天曆御歌　村上帝
 
-*in Fushimi of*<br>
-*Sugawara mallets strike*<br>
-*cloth on fulling blocks*<br>
-*near my pillow how many nights*<br>
-*were my dreams left incomplete*
+*incomprehensible*<br>
+*it seems what is it that these*<br>
+*white dewdrops regret*<br>
+*as they settle all across*<br>
+*the meadows and the mountains*
 
-2026-10-07 ｜ 令和8年10月7日 ｜ [秋分] 水始涸
+2026-10-08 ｜ 令和8年10月8日 ｜ [寒露] 鴻雁来
 
 </div>
 <!-- WAKA:END -->
