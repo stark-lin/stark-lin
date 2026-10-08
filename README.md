@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-覺束無<br>
-野にも山にも<br>
-白露の<br>
-何事をかは<br>
-思置くらむ
+故鄉に<br>
+衣擣つとは<br>
+行雁や<br>
+旅空にも<br>
+鳴きて告ぐらむ
 
-天曆御歌　村上帝
+大納言　源經信
 
-*incomprehensible*<br>
-*it seems what is it that these*<br>
-*white dewdrops regret*<br>
-*as they settle all across*<br>
-*the meadows and the mountains*
+*in our old home town*<br>
+*I am pounding his garments—*<br>
+*wild geese overhead*<br>
+*winging through the sky where he*<br>
+*goes call out and tell him so*
 
-2026-10-08 ｜ 令和8年10月8日 ｜ [寒露] 鴻雁来
+2026-10-09 ｜ 令和8年10月9日 ｜ [寒露] 鴻雁来
 
 </div>
 <!-- WAKA:END -->
