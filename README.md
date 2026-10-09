@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-故鄉に<br>
-衣擣つとは<br>
-行雁や<br>
-旅空にも<br>
-鳴きて告ぐらむ
+秋果つる<br>
+小夜更け方の<br>
+月見れば<br>
+袖も殘らず<br>
+露ぞ置きける
 
-大納言　源經信
+藤原道信朝臣
 
-*in our old home town*<br>
-*I am pounding his garments—*<br>
-*wild geese overhead*<br>
-*winging through the sky where he*<br>
-*goes call out and tell him so*
+*autumn nears its end*<br>
+*and I gaze out at the moon*<br>
+*as the night grows late*<br>
+*my sleeves too are soaked through and*<br>
+*through by settling dew drops*
 
-2026-10-09 ｜ 令和8年10月9日 ｜ [寒露] 鴻雁来
+2026-10-10 ｜ 令和8年10月10日 ｜ [寒露] 鴻雁来
 
 </div>
 <!-- WAKA:END -->
