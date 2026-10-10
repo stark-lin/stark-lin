@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋果つる<br>
-小夜更け方の<br>
-月見れば<br>
-袖も殘らず<br>
-露ぞ置きける
+秋去れば<br>
+置白露に<br>
+我宿の<br>
+淺茅上葉<br>
+色付きにけり
 
-藤原道信朝臣
+人麿　柿本人麻呂
 
-*autumn nears its end*<br>
-*and I gaze out at the moon*<br>
-*as the night grows late*<br>
-*my sleeves too are soaked through and*<br>
-*through by settling dew drops*
+*now that autumn’s here*<br>
+*the tips of the low-growing*<br>
+*reeds in my garden*<br>
+*are suffused with new color*<br>
+*as the white dewdrops settle*
 
-2026-10-10 ｜ 令和8年10月10日 ｜ [寒露] 鴻雁来
+2026-10-11 ｜ 令和8年10月11日 ｜ [寒露] 鴻雁来
 
 </div>
 <!-- WAKA:END -->
