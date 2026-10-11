@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋去れば<br>
-置白露に<br>
-我宿の<br>
-淺茅上葉<br>
-色付きにけり
+微睡迄<br>
+眺めよとての<br>
+慰哉<br>
+朝狹衣<br>
+月に擣つ聲
 
-人麿　柿本人麻呂
+若草宮內卿
 
-*now that autumn’s here*<br>
-*the tips of the low-growing*<br>
-*reeds in my garden*<br>
-*are suffused with new color*<br>
-*as the white dewdrops settle*
+*they must be bemused*<br>
+*attempting to keep me from*<br>
+*sleep that could end my*<br>
+*reveries as they full robes*<br>
+*of hemp under the bright moon*
 
-2026-10-11 ｜ 令和8年10月11日 ｜ [寒露] 鴻雁来
+2026-10-12 ｜ 令和8年10月12日 ｜ [寒露] 鴻雁来
 
 </div>
 <!-- WAKA:END -->
