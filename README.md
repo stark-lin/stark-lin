@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-微睡迄<br>
-眺めよとての<br>
-慰哉<br>
-朝狹衣<br>
-月に擣つ聲
+村雨の<br>
+露も未干ぬ<br>
+槙葉に<br>
+霧立昇る<br>
+秋夕暮
 
-若草宮內卿
+寂蓮法師　藤原定長
 
-*they must be bemused*<br>
-*attempting to keep me from*<br>
-*sleep that could end my*<br>
-*reveries as they full robes*<br>
-*of hemp under the bright moon*
+*the passing shower*<br>
+*left dewdrops still sparkling*<br>
+*on the evergreen*<br>
+*needles as the mist rises*<br>
+*on this evening in autumn*
 
-2026-10-12 ｜ 令和8年10月12日 ｜ [寒露] 鴻雁来
+2026-10-13 ｜ 令和8年10月13日 ｜ [寒露] 菊花開
 
 </div>
 <!-- WAKA:END -->
