@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-村雨の<br>
-露も未干ぬ<br>
-槙葉に<br>
-霧立昇る<br>
-秋夕暮
+更けにけり<br>
+山端近く<br>
+月冴えて<br>
+十市里に<br>
+衣擣つ聲
 
-寂蓮法師　藤原定長
+式子內親王
 
-*the passing shower*<br>
-*left dewdrops still sparkling*<br>
-*on the evergreen*<br>
-*needles as the mist rises*<br>
-*on this evening in autumn*
+*the night grows late near*<br>
+*the mountain rim hangs the clear*<br>
+*cold moon in distant*<br>
+*Tōchi village the voice of*<br>
+*the mallet rings out on the block*
 
-2026-10-13 ｜ 令和8年10月13日 ｜ [寒露] 菊花開
+2026-10-14 ｜ 令和8年10月14日 ｜ [寒露] 菊花開
 
 </div>
 <!-- WAKA:END -->
