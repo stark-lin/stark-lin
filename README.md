@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋風の<br>
-袖に吹卷く<br>
-峰雲を<br>
-翼に掛けて<br>
-雁も鳴く也
+秋野の<br>
+草葉押並み<br>
+置露に<br>
+濡れてや人の<br>
+尋行くらむ
 
-藤原家隆朝臣
+贈左大臣　藤原長實
 
-*autumn winds entangle*<br>
-*in my sleeves trailing clouds of*<br>
-*the mountain peaks carried*<br>
-*along on their beating wings*<br>
-*the wild geese too are crying*
+*through autumn fields of*<br>
+*grasses bending beneath their*<br>
+*thick covering of*<br>
+*dewdrops is he going to*<br>
+*visit drenched as he passes*
 
-2026-10-15 ｜ 令和8年10月15日 ｜ [寒露] 菊花開
+2026-10-16 ｜ 令和8年10月16日 ｜ [寒露] 菊花開
 
 </div>
 <!-- WAKA:END -->
