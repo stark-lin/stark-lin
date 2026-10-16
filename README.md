@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋野の<br>
-草葉押並み<br>
-置露に<br>
-濡れてや人の<br>
-尋行くらむ
+里は荒れて<br>
+月や非ぬと<br>
+恨みても<br>
+誰淺茅生に<br>
+衣擣つらむ
 
-贈左大臣　藤原長實
+攝政太政大臣　藤原良經
 
-*through autumn fields of*<br>
-*grasses bending beneath their*<br>
-*thick covering of*<br>
-*dewdrops is he going to*<br>
-*visit drenched as he passes*
+*delapidated*<br>
+*village where I mourn the past—*<br>
+*is this not that moon*<br>
+*of old who is fulling cloth*<br>
+*near fields of tangled grasses*
 
-2026-10-16 ｜ 令和8年10月16日 ｜ [寒露] 菊花開
+2026-10-17 ｜ 令和8年10月17日 ｜ [寒露] 菊花開
 
 </div>
 <!-- WAKA:END -->
