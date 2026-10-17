@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-里は荒れて<br>
-月や非ぬと<br>
-恨みても<br>
-誰淺茅生に<br>
-衣擣つらむ
+雁音は<br>
+風に競ひて<br>
+過ぐれども<br>
+我が待人の<br>
+言傳も無し
 
-攝政太政大臣　藤原良經
+佚名
 
-*delapidated*<br>
-*village where I mourn the past—*<br>
-*is this not that moon*<br>
-*of old who is fulling cloth*<br>
-*near fields of tangled grasses*
+*the cries of wild geese*<br>
+*echo in competition*<br>
+*with the howling winds*<br>
+*yet from the one I await*<br>
+*there comes no message for me*
 
-2026-10-17 ｜ 令和8年10月17日 ｜ [寒露] 菊花開
+2026-10-18 ｜ 令和8年10月18日 ｜ [寒露] 蟋蟀在戸
 
 </div>
 <!-- WAKA:END -->
