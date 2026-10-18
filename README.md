@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-雁音は<br>
-風に競ひて<br>
-過ぐれども<br>
-我が待人の<br>
-言傳も無し
+曙や<br>
+河瀨浪の<br>
+高瀨舟<br>
+下すか人の<br>
+袖秋霧
 
-佚名
+左衛門督　源通光
 
-*the cries of wild geese*<br>
-*echo in competition*<br>
-*with the howling winds*<br>
-*yet from the one I await*<br>
-*there comes no message for me*
+*as daybreak comes is*<br>
+*a skiff descending the high*<br>
+*waves of the river*<br>
+*rapids a boatman’s sleeves float*<br>
+*in the drifts of autumn mist*
 
-2026-10-18 ｜ 令和8年10月18日 ｜ [寒露] 蟋蟀在戸
+2026-10-19 ｜ 令和8年10月19日 ｜ [寒露] 蟋蟀在戸
 
 </div>
 <!-- WAKA:END -->
