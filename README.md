@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-曙や<br>
-河瀨浪の<br>
-高瀨舟<br>
-下すか人の<br>
-袖秋霧
+叢雲や<br>
+雁羽風に<br>
+晴れぬらむ<br>
+聲聞く空に<br>
+澄める月影
 
-左衛門督　源通光
+朝惠法師
 
-*as daybreak comes is*<br>
-*a skiff descending the high*<br>
-*waves of the river*<br>
-*rapids a boatman’s sleeves float*<br>
-*in the drifts of autumn mist*
+*have those cloud clusters*<br>
+*been scattered by the winds from*<br>
+*the beating wings of*<br>
+*wild geese in the sky where their*<br>
+*cries ring out bright moonlight shines*
 
-2026-10-19 ｜ 令和8年10月19日 ｜ [寒露] 蟋蟀在戸
+2026-10-20 ｜ 令和8年10月20日 ｜ [寒露] 蟋蟀在戸
 
 </div>
 <!-- WAKA:END -->
