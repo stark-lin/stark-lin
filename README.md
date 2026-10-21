@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋風に<br>
-萎るる野邊の<br>
-花よりも<br>
-蟲音甚く<br>
-離にける哉
+訪人も<br>
+嵐吹添ふ<br>
+秋は來て<br>
+木葉に埋む<br>
+宿道芝
 
-中務卿具平親王
+皇太后宮大夫藤原俊成女
 
-*in cold autumn winds*<br>
-*the flowers of the fields fade—*<br>
-*more pitifully*<br>
-*insects’ cries echo distantly*<br>
-*voices hoarsened by early frost*
+*no more visitors*<br>
+*now that autumn has arrived*<br>
+*bringing tempests that*<br>
+*bury under fallen leaves*<br>
+*the grassy path to my home*
 
-2026-10-21 ｜ 令和8年10月21日 ｜ [寒露] 蟋蟀在戸
+2026-10-22 ｜ 令和8年10月22日 ｜ [寒露] 蟋蟀在戸
 
 </div>
 <!-- WAKA:END -->
