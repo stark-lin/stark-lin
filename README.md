@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-訪人も<br>
-嵐吹添ふ<br>
-秋は來て<br>
-木葉に埋む<br>
-宿道芝
+打群れて<br>
+散る紅葉を<br>
+尋ぬれば<br>
+山路よりこそ<br>
+秋は逝きけれ
 
-皇太后宮大夫藤原俊成女
+前大納言　藤原公任
 
-*no more visitors*<br>
-*now that autumn has arrived*<br>
-*bringing tempests that*<br>
-*bury under fallen leaves*<br>
-*the grassy path to my home*
+*together we came*<br>
+*to seek bright-hued foliage*<br>
+*all fallen now for*<br>
+*it is from such mountain paths*<br>
+*that autumn first disappears*
 
-2026-10-22 ｜ 令和8年10月22日 ｜ [寒露] 蟋蟀在戸
+2026-10-23 ｜ 令和8年10月23日 ｜ [霜降] 霜始降
 
 </div>
 <!-- WAKA:END -->
