@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-打群れて<br>
-散る紅葉を<br>
-尋ぬれば<br>
-山路よりこそ<br>
-秋は逝きけれ
+桐葉も<br>
+踏別難く<br>
+成りにけり<br>
+必ず人を<br>
+待つと無けれど
 
-前大納言　藤原公任
+式子內親王
 
-*together we came*<br>
-*to seek bright-hued foliage*<br>
-*all fallen now for*<br>
-*it is from such mountain paths*<br>
-*that autumn first disappears*
+*dry paulownia*<br>
+*leaves have scattered so thickly*<br>
+*it’s difficult to pass—*<br>
+*even though there is no one*<br>
+*I can hope will visit me*
 
-2026-10-23 ｜ 令和8年10月23日 ｜ [霜降] 霜始降
+2026-10-24 ｜ 令和8年10月24日 ｜ [霜降] 霜始降
 
 </div>
 <!-- WAKA:END -->
