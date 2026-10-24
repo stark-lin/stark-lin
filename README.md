@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-桐葉も<br>
-踏別難く<br>
-成りにけり<br>
-必ず人を<br>
-待つと無けれど
+秋夜は<br>
+衣狹筵<br>
+重ねても<br>
+月光に<br>
+及く物ぞ無き
 
-式子內親王
+大納言　源經信
 
-*dry paulownia*<br>
-*leaves have scattered so thickly*<br>
-*it’s difficult to pass—*<br>
-*even though there is no one*<br>
-*I can hope will visit me*
+*on an autumn night*<br>
+*although I pile up thin straw*<br>
+*mats over my cold*<br>
+*robes they are no match for*<br>
+*the flooding light of the moon*
 
-2026-10-24 ｜ 令和8年10月24日 ｜ [霜降] 霜始降
+2026-10-25 ｜ 令和8年10月25日 ｜ [霜降] 霜始降
 
 </div>
 <!-- WAKA:END -->
