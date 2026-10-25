@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋夜は<br>
-衣狹筵<br>
-重ねても<br>
-月光に<br>
-及く物ぞ無き
+秋深き<br>
+淡路島の<br>
+有明に<br>
+傾く月を<br>
+送る浦風
 
-大納言　源經信
+前大僧正慈圓
 
-*on an autumn night*<br>
-*although I pile up thin straw*<br>
-*mats over my cold*<br>
-*robes they are no match for*<br>
-*the flooding light of the moon*
+*autumn deepens on*<br>
+*Awaji Island where*<br>
+*in the light of dawn*<br>
+*the moon slides lower in the sky*<br>
+*launched by the wind from the bay*
 
-2026-10-25 ｜ 令和8年10月25日 ｜ [霜降] 霜始降
+2026-10-26 ｜ 令和8年10月26日 ｜ [霜降] 霜始降
 
 </div>
 <!-- WAKA:END -->
