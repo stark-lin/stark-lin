@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-秋深き<br>
-淡路島の<br>
-有明に<br>
-傾く月を<br>
-送る浦風
+紅葉の<br>
+色に任せて<br>
+常磐木も<br>
+風に移ろふ<br>
+秋山哉
 
-前大僧正慈圓
+春宮大夫　藤原公繼
 
-*autumn deepens on*<br>
-*Awaji Island where*<br>
-*in the light of dawn*<br>
-*the moon slides lower in the sky*<br>
-*launched by the wind from the bay*
+*overwhelmed by all*<br>
+*the bright colors of autumn*<br>
+*leaves evergreen trees*<br>
+*too begin to change the wind brings*<br>
+*fall hues to Mount Tokiwa*
 
-2026-10-26 ｜ 令和8年10月26日 ｜ [霜降] 霜始降
+2026-10-27 ｜ 令和8年10月27日 ｜ [霜降] 霜始降
 
 </div>
 <!-- WAKA:END -->
