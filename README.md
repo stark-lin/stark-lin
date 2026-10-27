@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-紅葉の<br>
-色に任せて<br>
-常磐木も<br>
-風に移ろふ<br>
-秋山哉
+龍田山<br>
+嵐や峰に<br>
+弱るらむ<br>
+渡らぬ水も<br>
+錦絕えけり
 
-春宮大夫　藤原公繼
+若草宮內卿
 
-*overwhelmed by all*<br>
-*the bright colors of autumn*<br>
-*leaves evergreen trees*<br>
-*too begin to change the wind brings*<br>
-*fall hues to Mount Tokiwa*
+*Tatsuta Mountain*<br>
+*it seems the storm on the peak*<br>
+*is exhausted no*<br>
+*one has crossed the waters yet*<br>
+*the floating brocade is torn*
 
-2026-10-27 ｜ 令和8年10月27日 ｜ [霜降] 霜始降
+2026-10-28 ｜ 令和8年10月28日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->
