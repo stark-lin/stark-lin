@@ -15,7 +15,7 @@
 *one has crossed the waters yet*<br>
 *the floating brocade is torn*
 
-2026-10-28 ｜ 令和8年10月28日 ｜ [霜降] 霎時施
+2026-10-28 ｜ 昭和101年10月28日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->

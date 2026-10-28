@@ -42,13 +42,7 @@ BOOK_RANGES = {
 }
 START_MARKER = "<!-- WAKA:START -->"
 END_MARKER = "<!-- WAKA:END -->"
-JAPANESE_ERAS = (
-    (date(2019, 5, 1), "令和"),
-    (date(1989, 1, 8), "平成"),
-    (date(1926, 12, 25), "昭和"),
-    (date(1912, 7, 30), "大正"),
-    (date(1868, 10, 23), "明治"),
-)
+SHOWA_START = date(1926, 12, 25)
 
 
 def load_json(path: Path) -> Any:
@@ -324,12 +318,12 @@ def current_tokyo_date(now: datetime | None = None) -> date:
 
 
 def japanese_calendar_date(day: date) -> str:
-    for era_start, era_name in JAPANESE_ERAS:
-        if day >= era_start:
-            era_year = day.year - era_start.year + 1
-            year = "元" if era_year == 1 else str(era_year)
-            return f"{era_name}{year}年{day.month}月{day.day}日"
-    raise ValueError(f"Japanese era is not supported for {day.isoformat()}")
+    """Display dates using continuous Showa numbering, including after 1989."""
+    if day < SHOWA_START:
+        raise ValueError(f"Showa calendar is not supported for {day.isoformat()}")
+    era_year = day.year - SHOWA_START.year + 1
+    year = "元" if era_year == 1 else str(era_year)
+    return f"昭和{year}年{day.month}月{day.day}日"
 
 
 def waka_markdown(day: date, ko: dict[str, Any], poem: dict[str, Any]) -> str:
