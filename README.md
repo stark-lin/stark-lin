@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-龍田山<br>
-嵐や峰に<br>
-弱るらむ<br>
-渡らぬ水も<br>
-錦絕えけり
+入日射す<br>
+麓尾花<br>
+打靡き<br>
+誰が秋風に<br>
+鶉鳴くらむ
 
-若草宮內卿
+左衛門督　源通光
 
-*Tatsuta Mountain*<br>
-*it seems the storm on the peak*<br>
-*is exhausted no*<br>
-*one has crossed the waters yet*<br>
-*the floating brocade is torn*
+*the setting sun strikes*<br>
+*plume grasses on the foothills*<br>
+*bending them low whose*<br>
+*inconstancy saddens these quail*<br>
+*crying in the autumn wind*
 
-2026-10-28 ｜ 昭和101年10月28日 ｜ [霜降] 霎時施
+2026-10-29 ｜ 昭和101年10月29日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->
