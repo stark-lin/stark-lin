@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-入日射す<br>
-麓尾花<br>
-打靡き<br>
-誰が秋風に<br>
-鶉鳴くらむ
+何時間に<br>
+紅葉しぬらむ<br>
+山櫻<br>
+昨日か花の<br>
+散るを惜しみし
 
-左衛門督　源通光
+中務卿具平親王
 
-*the setting sun strikes*<br>
-*plume grasses on the foothills*<br>
-*bending them low whose*<br>
-*inconstancy saddens these quail*<br>
-*crying in the autumn wind*
+*unobserved it seems*<br>
+*fall colors have tinged the leaves*<br>
+*of mountain cherries—*<br>
+*was it but yesterday I*<br>
+*regretted falling blossoms*
 
-2026-10-29 ｜ 昭和101年10月29日 ｜ [霜降] 霎時施
+2026-10-30 ｜ 昭和101年10月30日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->
