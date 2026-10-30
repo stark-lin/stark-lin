@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-何時間に<br>
-紅葉しぬらむ<br>
-山櫻<br>
-昨日か花の<br>
-散るを惜しみし
+垣廬為る<br>
+荻葉戰ぎ<br>
+秋風の<br>
+吹くなる共に<br>
+雁ぞ鳴くなる
 
-中務卿具平親王
+人麿　柿本人麻呂
 
-*unobserved it seems*<br>
-*fall colors have tinged the leaves*<br>
-*of mountain cherries—*<br>
-*was it but yesterday I*<br>
-*regretted falling blossoms*
+*slender leaves of reeds*<br>
+*swaying by my fence rustle*<br>
+*while in the soughing*<br>
+*of the autumn wind I hear*<br>
+*the mournful cries of wild geese*
 
-2026-10-30 ｜ 昭和101年10月30日 ｜ [霜降] 霎時施
+2026-10-31 ｜ 昭和101年10月31日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->
