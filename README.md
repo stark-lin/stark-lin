@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-垣廬為る<br>
-荻葉戰ぎ<br>
-秋風の<br>
-吹くなる共に<br>
-雁ぞ鳴くなる
+飛鳥川<br>
+紅葉流る<br>
+葛城の<br>
+山秋風<br>
+吹きぞしぬらむ
 
-人麿　柿本人麻呂
+柿本人麿　柿本人麻呂
 
-*slender leaves of reeds*<br>
-*swaying by my fence rustle*<br>
-*while in the soughing*<br>
-*of the autumn wind I hear*<br>
-*the mournful cries of wild geese*
+*Asuka River*<br>
+*bright colored leaves flow swiftly*<br>
+*surely the chill winds*<br>
+*of autumn have been blowing*<br>
+*on Kazuraki Mountain*
 
-2026-10-31 ｜ 昭和101年10月31日 ｜ [霜降] 霎時施
+2026-11-01 ｜ 昭和101年11月1日 ｜ [霜降] 霎時施
 
 </div>
 <!-- WAKA:END -->
