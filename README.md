@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-飛鳥川<br>
-紅葉流る<br>
-葛城の<br>
-山秋風<br>
-吹きぞしぬらむ
+色變る<br>
+露をば袖に<br>
+置迷ひ<br>
+末枯れて行く<br>
+野邊秋哉
 
-柿本人麿　柿本人麻呂
+皇太后宮大夫藤原俊成女
 
-*Asuka River*<br>
-*bright colored leaves flow swiftly*<br>
-*surely the chill winds*<br>
-*of autumn have been blowing*<br>
-*on Kazuraki Mountain*
+*dewdrops in new hues*<br>
+*scatter across my flowing*<br>
+*sleeves touching with*<br>
+*withering frost the tips of*<br>
+*grasses in the autumn fields*
 
-2026-11-01 ｜ 昭和101年11月1日 ｜ [霜降] 霎時施
+2026-11-02 ｜ 昭和101年11月2日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
