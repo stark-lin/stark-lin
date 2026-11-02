@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-色變る<br>
-露をば袖に<br>
-置迷ひ<br>
-末枯れて行く<br>
-野邊秋哉
+逝秋の<br>
+形見為るべき<br>
+紅葉は<br>
+明日は時雨と<br>
+降りや紛はむ
 
-皇太后宮大夫藤原俊成女
+權中納言　藤原兼宗
 
-*dewdrops in new hues*<br>
-*scatter across my flowing*<br>
-*sleeves touching with*<br>
-*withering frost the tips of*<br>
-*grasses in the autumn fields*
+*departing autumn’s*<br>
+*keepsake so we had hoped yet*<br>
+*mo these colored leaves too*<br>
+*it seems must fade tomorrow*<br>
+*and melt into the chilly rains*
 
-2026-11-02 ｜ 昭和101年11月2日 ｜ [霜降] 楓蔦黄
+2026-11-03 ｜ 昭和101年11月3日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
