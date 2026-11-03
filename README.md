@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-逝秋の<br>
-形見為るべき<br>
-紅葉は<br>
-明日は時雨と<br>
-降りや紛はむ
+散掛かる<br>
+紅葉色は<br>
+深けれど<br>
+渡れば濁る<br>
+山川水
 
-權中納言　藤原兼宗
+二條院讚岐
 
-*departing autumn’s*<br>
-*keepsake so we had hoped yet*<br>
-*mo these colored leaves too*<br>
-*it seems must fade tomorrow*<br>
-*and melt into the chilly rains*
+*fallen and scattered*<br>
+*the color of the autumn*<br>
+*leaves on the mountain*<br>
+*stream is deep but should I cross*<br>
+*I’d muddy the shallow pools*
 
-2026-11-03 ｜ 昭和101年11月3日 ｜ [霜降] 楓蔦黄
+2026-11-04 ｜ 昭和101年11月4日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
