@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-散掛かる<br>
-紅葉色は<br>
-深けれど<br>
-渡れば濁る<br>
-山川水
+故鄉は<br>
+散る紅葉に<br>
+埋もれて<br>
+軒忍に<br>
+秋風ぞ吹く
 
-二條院讚岐
+源俊賴朝臣
 
-*fallen and scattered*<br>
-*the color of the autumn*<br>
-*leaves on the mountain*<br>
-*stream is deep but should I cross*<br>
-*I’d muddy the shallow pools*
+*once my home this house*<br>
+*now buried beneath mounds*<br>
+*of bright fallen leaves—*<br>
+*on grasses of longing by*<br>
+*the eaves chill autumn wind blows*
 
-2026-11-04 ｜ 昭和101年11月4日 ｜ [霜降] 楓蔦黄
+2026-11-05 ｜ 昭和101年11月5日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
