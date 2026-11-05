@@ -15,11 +15,7 @@
 *raging this late autumn night—*<br>
 *cries of the waiting crickets*
 
-<<<<<<< Updated upstream
-2026-11-06 ｜ 昭和101年11月6日 ｜ [霜降] 楓蔦黄
-=======
-2026-10-31 ｜ 大正115年10月31日 ｜ [霜降] 霎時施
->>>>>>> Stashed changes
+2026-11-06 ｜ 大正115年11月6日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
