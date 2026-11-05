@@ -26,4 +26,6 @@ Building software, AI-native products, and strange experiments.
 
 [Portfolio](https://stark-lin.github.io/) · [Email](mailto:stark.lin@outlook.com)
 
+stark.lin@outlook.com
+
 <sub>Translation © Laurel Rasplica Rodd · CC BY-NC-ND 4.0</sub>
