@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-故鄉は<br>
-散る紅葉に<br>
-埋もれて<br>
-軒忍に<br>
-秋風ぞ吹く
+寢覺する<br>
+袖さへ寒く<br>
+秋夜の<br>
+嵐吹く也<br>
+松蟲聲
 
-源俊賴朝臣
+大江嘉言
 
-*once my home this house*<br>
-*now buried beneath mounds*<br>
-*of bright fallen leaves—*<br>
-*on grasses of longing by*<br>
-*the eaves chill autumn wind blows*
+*awakening from*<br>
+*sleep even my sleeves are chilled*<br>
+*by the storm wildly*<br>
+*raging this late autumn night—*<br>
+*cries of the waiting crickets*
 
-2026-11-05 ｜ 昭和101年11月5日 ｜ [霜降] 楓蔦黄
+2026-11-06 ｜ 昭和101年11月6日 ｜ [霜降] 楓蔦黄
 
 </div>
 <!-- WAKA:END -->
