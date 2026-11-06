@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-寢覺する<br>
-袖さへ寒く<br>
-秋夜の<br>
-嵐吹く也<br>
-松蟲聲
+起明す<br>
+秋別の<br>
+袖露<br>
+霜こそ結べ<br>
+冬や來ぬらむ
 
-大江嘉言
+皇太后宮大夫　藤原俊成
 
-*awakening from*<br>
-*sleep even my sleeves are chilled*<br>
-*by the storm wildly*<br>
-*raging this late autumn night—*<br>
-*cries of the waiting crickets*
+*lying awake till*<br>
+*dawn cold dewdrops of autumn’s*<br>
+*parting nestled on*<br>
+*my sleeves leave tracings of frost—*<br>
+*has winter truly come now*
 
-2026-11-06 ｜ 大正115年11月6日 ｜ [霜降] 楓蔦黄
+2026-11-07 ｜ 大正115年11月7日 ｜ [立冬] 山茶始開
 
 </div>
 <!-- WAKA:END -->
