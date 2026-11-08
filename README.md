@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-高瀨舟<br>
-澀く許に<br>
-紅葉の<br>
-流れて下る<br>
-大堰川哉
+木葉散る<br>
+時雨や紛ふ<br>
+我袖に<br>
+脆淚の<br>
+色と見る迄
 
-藤原家經朝臣
+右衛門督　源通具
 
-*shallow drafted boats*<br>
-*struggle slowly on so thickly*<br>
-*do the autumn leaves*<br>
-*come flowing with the waters*<br>
-*of the Ōi River*
+*are the falling leaves*<br>
+*mingling with the wintry rain*<br>
+*on my flowing sleeves*<br>
+*to dye them the color of*<br>
+*these tears that fall so freely*
 
-2026-11-08 ｜ 大正115年11月8日 ｜ [立冬] 山茶始開
+2026-11-09 ｜ 大正115年11月9日 ｜ [立冬] 山茶始開
 
 </div>
 <!-- WAKA:END -->
