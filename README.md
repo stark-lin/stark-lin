@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-木葉散る<br>
-時雨や紛ふ<br>
-我袖に<br>
-脆淚の<br>
-色と見る迄
+筏士よ<br>
+待て言問はむ<br>
+水上は<br>
+如何許吹く<br>
+山嵐ぞ
 
-右衛門督　源通具
+藤原資宗朝臣
 
-*are the falling leaves*<br>
-*mingling with the wintry rain*<br>
-*on my flowing sleeves*<br>
-*to dye them the color of*<br>
-*these tears that fall so freely*
+*oarsmen of the rafts*<br>
+*please wait one thing I would ask—*<br>
+*at the headwaters*<br>
+*of the stream how fiercely do*<br>
+*those storms of the mountain blow*
 
-2026-11-09 ｜ 大正115年11月9日 ｜ [立冬] 山茶始開
+2026-11-10 ｜ 大正115年11月10日 ｜ [立冬] 山茶始開
 
 </div>
 <!-- WAKA:END -->
