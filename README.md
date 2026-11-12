@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-日暮るれば<br>
-逢人もなし<br>
-柾木散る<br>
-峰嵐の<br>
-音許して
+時雨降る<br>
+音はすれども<br>
+吳竹の<br>
+何ど世と共に<br>
+色も變らぬ
 
-源俊賴朝臣
+中納言　藤原兼輔
 
-*the sun has set and*<br>
-*I meet no one on my path—*<br>
-*there’s only the sound*<br>
-*of storms on the peaks and leaves*<br>
-*of winter creeper raining down*
+*sharp wintry rain falls*<br>
+*but despite that constant drone*<br>
+*the bamboo remains*<br>
+*green why does it never change*<br>
+*in this ever-changing world*
 
-2026-11-12 ｜ 大正115年11月12日 ｜ [立冬] 地始凍
+2026-11-13 ｜ 大正115年11月13日 ｜ [立冬] 地始凍
 
 </div>
 <!-- WAKA:END -->
