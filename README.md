@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-時雨降る<br>
-音はすれども<br>
-吳竹の<br>
-何ど世と共に<br>
-色も變らぬ
+冬來て<br>
+山も顯はに<br>
+木葉降り<br>
+殘る松さへ<br>
+峰に寂しき
 
-中納言　藤原兼輔
+祝部成茂
 
-*sharp wintry rain falls*<br>
-*but despite that constant drone*<br>
-*the bamboo remains*<br>
-*green why does it never change*<br>
-*in this ever-changing world*
+*with winter’s coming*<br>
+*tree leaves fall and the mountains*<br>
+*open to our view—*<br>
+*even pines with evergreen*<br>
+*boughs seem sad on barren peaks*
 
-2026-11-13 ｜ 大正115年11月13日 ｜ [立冬] 地始凍
+2026-11-14 ｜ 大正115年11月14日 ｜ [立冬] 地始凍
 
 </div>
 <!-- WAKA:END -->
