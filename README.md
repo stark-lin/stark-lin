@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-冬來て<br>
-山も顯はに<br>
-木葉降り<br>
-殘る松さへ<br>
-峰に寂しき
+雲晴て<br>
+後も時雨るる<br>
+柴戶や<br>
+山風拂ふ<br>
+松下露
 
-祝部成茂
+藤原隆信朝臣
 
-*with winter’s coming*<br>
-*tree leaves fall and the mountains*<br>
-*open to our view—*<br>
-*even pines with evergreen*<br>
-*boughs seem sad on barren peaks*
+*the clouds had cleared*<br>
+*and yet I seemed to hear a soft*<br>
+*rain pattering on*<br>
+*my brushwood door dewdrops from*<br>
+*pines swept by the mountain wind*
 
-2026-11-14 ｜ 大正115年11月14日 ｜ [立冬] 地始凍
+2026-11-15 ｜ 大正115年11月15日 ｜ [立冬] 地始凍
 
 </div>
 <!-- WAKA:END -->
