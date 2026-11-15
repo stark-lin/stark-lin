@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-雲晴て<br>
-後も時雨るる<br>
-柴戶や<br>
-山風拂ふ<br>
-松下露
+神無月<br>
+風に紅葉の<br>
+散る時は<br>
+其處は斯となく<br>
+物ぞ悲しき
 
-藤原隆信朝臣
+藤原高光
 
-*the clouds had cleared*<br>
-*and yet I seemed to hear a soft*<br>
-*rain pattering on*<br>
-*my brushwood door dewdrops from*<br>
-*pines swept by the mountain wind*
+*in the Godless Month*<br>
+*at the time when autumn leaves*<br>
+*all fall carried by*<br>
+*the wind somehow everything*<br>
+*is indescribably sad*
 
-2026-11-15 ｜ 大正115年11月15日 ｜ [立冬] 地始凍
+2026-11-16 ｜ 大正115年11月16日 ｜ [立冬] 地始凍
 
 </div>
 <!-- WAKA:END -->
