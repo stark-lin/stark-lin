@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
+時しも有れ<br>
+冬は葉守の<br>
 神無月<br>
-風に紅葉の<br>
-散る時は<br>
-其處は斯となく<br>
-物ぞ悲しき
+斑に成りぬ<br>
+森柏木
 
-藤原高光
+法眼慶算
 
-*in the Godless Month*<br>
-*at the time when autumn leaves*<br>
-*all fall carried by*<br>
-*the wind somehow everything*<br>
-*is indescribably sad*
+*now it is the time—*<br>
+*the Godless Month of winter*<br>
+*when the guardian*<br>
+*of the leaves the grove of oak*<br>
+*trees dappled with bright colors*
 
-2026-11-16 ｜ 大正115年11月16日 ｜ [立冬] 地始凍
+2026-11-17 ｜ 大正115年11月17日 ｜ [立冬] 金盞香
 
 </div>
 <!-- WAKA:END -->
