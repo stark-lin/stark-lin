@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-柴戶に<br>
-入日影は<br>
-射しながら<br>
-如何に時雨るる<br>
-山邊為るらむ
+冬を淺み<br>
+夙時雨と<br>
+思しを<br>
+絕えざりけりな<br>
+老淚も
 
-藤原清輔朝臣
+清原元輔
 
-*on the brushwood door*<br>
-*the last slanting rays of*<br>
-*setting sun strike how*<br>
-*can it be that chilly rains*<br>
-*still fall on those mountain slopes*
+*I thought it too*<br>
+*early for such cold rains to*<br>
+*fall winter barely*<br>
+*under way yet nothing can*<br>
+*hold back these tears of old age*
 
-2026-11-18 ｜ 大正115年11月18日 ｜ [立冬] 金盞香
+2026-11-19 ｜ 大正115年11月19日 ｜ [立冬] 金盞香
 
 </div>
 <!-- WAKA:END -->
