@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-冬を淺み<br>
-夙時雨と<br>
-思しを<br>
-絕えざりけりな<br>
-老淚も
+神無月<br>
+時雨降るらし<br>
+佐保山の<br>
+柾木蔓<br>
+色增行く
 
-清原元輔
+佚名
 
-*I thought it too*<br>
-*early for such cold rains to*<br>
-*fall winter barely*<br>
-*under way yet nothing can*<br>
-*hold back these tears of old age*
+*in this Godless Month*<br>
+*chilly rains must be falling*<br>
+*for on Mount Saho*<br>
+*the winter creeper’s verdant*<br>
+*color deepens steadily*
 
-2026-11-19 ｜ 大正115年11月19日 ｜ [立冬] 金盞香
+2026-11-20 ｜ 大正115年11月20日 ｜ [立冬] 金盞香
 
 </div>
 <!-- WAKA:END -->
