@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-神無月<br>
-時雨降るらし<br>
-佐保山の<br>
-柾木蔓<br>
-色增行く
+自から<br>
+音する物は<br>
+庭面に<br>
+木葉吹卷く<br>
+谷冬風
 
-佚名
+藤原清輔朝臣
 
-*in this Godless Month*<br>
-*chilly rains must be falling*<br>
-*for on Mount Saho*<br>
-*the winter creeper’s verdant*<br>
-*color deepens steadily*
+*with no visitors*<br>
+*it makes its sound all alone*<br>
+*stirring the dry leaves*<br>
+*that inundate my garden*<br>
+*evening wind of the valley*
 
-2026-11-20 ｜ 大正115年11月20日 ｜ [立冬] 金盞香
+2026-11-21 ｜ 大正115年11月21日 ｜ [立冬] 金盞香
 
 </div>
 <!-- WAKA:END -->
