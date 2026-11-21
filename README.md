@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-自から<br>
-音する物は<br>
-庭面に<br>
-木葉吹卷く<br>
-谷冬風
+折こそあれ<br>
+眺めに懸かる<br>
+浮雲の<br>
+袖も一つに<br>
+打時雨つつ
 
-藤原清輔朝臣
+二條院讚岐
 
-*with no visitors*<br>
-*it makes its sound all alone*<br>
-*stirring the dry leaves*<br>
-*that inundate my garden*<br>
-*evening wind of the valley*
+*such is the season*<br>
+*sadly gazing at drifting*<br>
+*clouds hanging before*<br>
+*my eyes my sleeves too are soaked*<br>
+*as cold rains go on falling*
 
-2026-11-21 ｜ 大正115年11月21日 ｜ [立冬] 金盞香
+2026-11-22 ｜ 大正115年11月22日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->
