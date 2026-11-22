@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-折こそあれ<br>
-眺めに懸かる<br>
-浮雲の<br>
-袖も一つに<br>
-打時雨つつ
+何時間に<br>
+空景色の<br>
+變るらむ<br>
+激しき今朝の<br>
+木枯風
 
-二條院讚岐
+津守國基
 
-*such is the season*<br>
-*sadly gazing at drifting*<br>
-*clouds hanging before*<br>
-*my eyes my sleeves too are soaked*<br>
-*as cold rains go on falling*
+*suddenly without*<br>
+*my noticing it the look*<br>
+*of the sky must have*<br>
+*changed so violent are the winds*<br>
+*of winter storms this morning*
 
-2026-11-22 ｜ 大正115年11月22日 ｜ [小雪] 虹蔵不見
+2026-11-23 ｜ 大正115年11月23日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->
