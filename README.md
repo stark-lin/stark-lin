@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-何時間に<br>
-空景色の<br>
-變るらむ<br>
-激しき今朝の<br>
-木枯風
+晴曇<br>
+時雨は定め<br>
+無き物を<br>
+古果てぬるは<br>
+我が身也けり
 
-津守國基
+道因法師
 
-*suddenly without*<br>
-*my noticing it the look*<br>
-*of the sky must have*<br>
-*changed so violent are the winds*<br>
-*of winter storms this morning*
+*clearing and clouding*<br>
+*the cold wintry rains cannot*<br>
+*decide whether to*<br>
+*end but my aging body*<br>
+*is ready to surrender*
 
-2026-11-23 ｜ 大正115年11月23日 ｜ [小雪] 虹蔵不見
+2026-11-24 ｜ 大正115年11月24日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->
