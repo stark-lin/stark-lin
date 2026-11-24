@@ -15,7 +15,7 @@
 *end but my aging body*<br>
 *is ready to surrender*
 
-2026-11-24 ｜ 大正115年11月24日 ｜ [小雪] 虹蔵不見
+2026-11-24 ｜ 昭和一百零一年十一月二十四日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->

@@ -42,7 +42,7 @@ BOOK_RANGES = {
 }
 START_MARKER = "<!-- WAKA:START -->"
 END_MARKER = "<!-- WAKA:END -->"
-TAISHO_START = date(1912, 7, 30)
+SHOWA_START = date(1926, 12, 25)
 
 
 def load_json(path: Path) -> Any:
@@ -317,13 +317,29 @@ def current_tokyo_date(now: datetime | None = None) -> date:
     return now.astimezone(TOKYO_TIMEZONE).date()
 
 
+def han_numeral(number: int) -> str:
+    """Write a calendar number in Chinese numerals."""
+    digits = "零一二三四五六七八九"
+    parts: list[str] = []
+    for place, unit in ((1000, "千"), (100, "百"), (10, "十"), (1, "")):
+        digit, number = divmod(number, place)
+        if digit == 0:
+            if parts and number and parts[-1] != "零":
+                parts.append("零")
+            continue
+        if digit != 1 or unit != "十" or parts:
+            parts.append(digits[digit])
+        parts.append(unit)
+    return "".join(parts) or "零"
+
+
 def japanese_calendar_date(day: date) -> str:
-    """Display dates using continuous Taisho numbering, including after 1926."""
-    if day < TAISHO_START:
-        raise ValueError(f"Taisho calendar is not supported for {day.isoformat()}")
-    era_year = day.year - TAISHO_START.year + 1
-    year = "元" if era_year == 1 else str(era_year)
-    return f"大正{year}年{day.month}月{day.day}日"
+    """Display dates using continuous Showa numbering, including after 1989."""
+    if day < SHOWA_START:
+        raise ValueError(f"Showa calendar is not supported for {day.isoformat()}")
+    era_year = day.year - SHOWA_START.year + 1
+    year = "元" if era_year == 1 else han_numeral(era_year)
+    return f"昭和{year}年{han_numeral(day.month)}月{han_numeral(day.day)}日"
 
 
 def waka_markdown(day: date, ko: dict[str, Any], poem: dict[str, Any]) -> str:
