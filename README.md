@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-晴曇<br>
-時雨は定め<br>
-無き物を<br>
-古果てぬるは<br>
-我が身也けり
+仄仄と<br>
+有明月の<br>
+月影に<br>
+紅葉吹落す<br>
+山颪風
 
-道因法師
+源信明朝臣
 
-*clearing and clouding*<br>
-*the cold wintry rains cannot*<br>
-*decide whether to*<br>
-*end but my aging body*<br>
-*is ready to surrender*
+*dimly dimly in*<br>
+*the translucent glow of*<br>
+*the fading moon at*<br>
+*dawn bright autumn leaves fall in*<br>
+*the winds of the mountain storm*
 
-2026-11-24 ｜ 昭和一百零一年十一月二十四日 ｜ [小雪] 虹蔵不見
+2026-11-25 ｜ 昭和一百零一年十一月二十五日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->
