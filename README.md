@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-仄仄と<br>
-有明月の<br>
-月影に<br>
-紅葉吹落す<br>
-山颪風
+木枯しの<br>
+音に時雨を<br>
+聞別かで<br>
+紅葉に濡るる<br>
+袂とぞ見る
 
-源信明朝臣
+中務卿具平親王
 
-*dimly dimly in*<br>
-*the translucent glow of*<br>
-*the fading moon at*<br>
-*dawn bright autumn leaves fall in*<br>
-*the winds of the mountain storm*
+*with the howling winds*<br>
+*masking the steady patter*<br>
+*of the chilly rain*<br>
+*I see my sleeves drenched through*<br>
+*by the falling autumn leaves*
 
-2026-11-25 ｜ 昭和一百零一年十一月二十五日 ｜ [小雪] 虹蔵不見
+2026-11-26 ｜ 昭和一百零一年十一月二十六日 ｜ [小雪] 虹蔵不見
 
 </div>
 <!-- WAKA:END -->
