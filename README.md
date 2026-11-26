@@ -1,21 +1,21 @@
 <!-- WAKA:START -->
 <div align="center">
 
-木枯しの<br>
-音に時雨を<br>
-聞別かで<br>
-紅葉に濡るる<br>
-袂とぞ見る
+晴曇る<br>
+影を都に<br>
+先立てて<br>
+時雨ると告ぐる<br>
+山端月
 
-中務卿具平親王
+源具親
 
-*with the howling winds*<br>
-*masking the steady patter*<br>
-*of the chilly rain*<br>
-*I see my sleeves drenched through*<br>
-*by the falling autumn leaves*
+*now brilliant and now*<br>
+*veiled its luminescence tells*<br>
+*the capital of*<br>
+*chilly drizzle to follow*<br>
+*bright moon of the mountain rim*
 
-2026-11-26 ｜ 昭和一百零一年十一月二十六日 ｜ [小雪] 虹蔵不見
+2026-11-27 ｜ 昭和一百零一年十一月二十七日 ｜ [小雪] 朔風払葉
 
 </div>
 <!-- WAKA:END -->
